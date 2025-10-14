@@ -28,7 +28,7 @@ Contains final scoring forms (.xlsx) for 12 experts.
 
 ### [results](./results)
 
-Contains processed results files (.rds and .csv).   
+Contains raw and processed results files (.rds and .csv).   
 
 ### [figures](./figures)
 
@@ -36,9 +36,9 @@ Contains pdf versions of all figures in manuscript.
 
 ### Required Packages and Versions Used 
 
-R version 4.4.1 (2024-06-14) 
-Platform: aarch64-apple-darwin20
-Running under: macOS 15.6.1
+R version 4.4.1 (2024-06-14)  
+Platform: aarch64-apple-darwin20  
+Running under: macOS 15.6.1  
 
 (here, list all required packages and the version you used, see examples) 
 

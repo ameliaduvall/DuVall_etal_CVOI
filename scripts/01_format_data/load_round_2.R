@@ -1,5 +1,4 @@
-## Round 2 responses
-## A DuVall ajduvall@uw.edu
+## Load round 2 responses
 
 ## load libraries
 library(here)
@@ -8,12 +7,12 @@ library(readxl)
 library(janitor)
 
 ## load responses
-file.list <- list.files(path = here("data", "Round_2"), pattern = '*.xlsx')
-rel_a <- lapply(here("data", "Round_2", file.list), read_excel, sheet = 1)
-rel_b <- lapply(here("data", "Round_2", file.list), read_excel, sheet = 2)
-mag <- lapply(here("data", "Round_2", file.list), read_excel, sheet = 3)
-red <- lapply(here("data", "Round_2", file.list), read_excel, sheet = 4)
-conf <- lapply(here("data", "Round_2", file.list), read_excel, sheet = 5)
+file.list <- list.files(path = here("data", "scores"), pattern = '*.xlsx')
+rel_a <- lapply(here("data", "scores", file.list), read_excel, sheet = 1)
+rel_b <- lapply(here("data", "scores", file.list), read_excel, sheet = 2)
+mag <- lapply(here("data","scores", file.list), read_excel, sheet = 3)
+red <- lapply(here("data", "scores", file.list), read_excel, sheet = 4)
+conf <- lapply(here("data", "scores", file.list), read_excel, sheet = 5)
 
 ## load hypothesis names
 names <- read_excel(here("data", "hypothesis_names.xlsx")) %>%
@@ -122,5 +121,5 @@ full_df <- bind_rows(rel_a_df, rel_b_df, mag_df, red_df, conf_df) %>%
   clean_names() %>%
   dplyr::select(expert, category, hypothesis, code, name, species, rel_a, rel_b, mag, red, conf)
 
-# write.csv(full_df, here("data", "round_2_all_results.csv"))
-# saveRDS(full_df, here("data", "full_df.RDS"))
+# write.csv(full_df, here("results", "round_2_all_results.csv"))
+# saveRDS(full_df, here("results", "round_2_all_results.RDS"))

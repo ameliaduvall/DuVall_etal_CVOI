@@ -1,0 +1,2017 @@
+"","expert","category","hypothesis","code","name","species","rel_a","rel_b","mag","red","conf"
+"1","ex1","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"2","ex1","Disturbance",1,"H1","Overflights","BRPE",0,NA,NA,NA,2
+"3","ex1","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"4","ex1","Disturbance",1,"H1","Overflights","SNPL",0,NA,NA,NA,2
+"5","ex1","Disturbance",1,"H1","Overflights","WEGU",0,NA,NA,NA,2
+"6","ex1","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"7","ex1","Disturbance",2,"H2","Recreation","ASSP",0,NA,NA,NA,2
+"8","ex1","Disturbance",2,"H2","Recreation","BRPE",0,NA,NA,NA,1
+"9","ex1","Disturbance",2,"H2","Recreation","SCMU",0,NA,NA,NA,2
+"10","ex1","Disturbance",2,"H2","Recreation","SNPL",0,NA,NA,NA,1
+"11","ex1","Disturbance",2,"H2","Recreation","WEGU",0,NA,NA,NA,1
+"12","ex1","Disturbance",2,"H2","Recreation","CAAU",0,NA,NA,NA,2
+"13","ex1","Fisheries",3,"H3","Fishery Equipment","ASSP",0,NA,NA,NA,2
+"14","ex1","Fisheries",3,"H3","Fishery Equipment","BRPE",1,1,0,2,2
+"15","ex1","Fisheries",3,"H3","Fishery Equipment","SCMU",0,NA,NA,NA,2
+"16","ex1","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,2
+"17","ex1","Fisheries",3,"H3","Fishery Equipment","WEGU",1,1,0,1,1
+"18","ex1","Fisheries",3,"H3","Fishery Equipment","CAAU",0,NA,NA,NA,2
+"19","ex1","Fisheries",4,"H4","Overfishing","ASSP",0,NA,NA,NA,1
+"20","ex1","Fisheries",4,"H4","Overfishing","BRPE",0,NA,NA,NA,1
+"21","ex1","Fisheries",4,"H4","Overfishing","SCMU",0,NA,NA,NA,1
+"22","ex1","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,1
+"23","ex1","Fisheries",4,"H4","Overfishing","WEGU",0,NA,NA,NA,1
+"24","ex1","Fisheries",4,"H4","Overfishing","CAAU",0,NA,NA,NA,2
+"25","ex1","Harmful native species interactions",5,"H5","Native Predators","ASSP",1,1,0,2,1
+"26","ex1","Harmful native species interactions",5,"H5","Native Predators","BRPE",0,NA,NA,NA,1
+"27","ex1","Harmful native species interactions",5,"H5","Native Predators","SCMU",1,1,0,2,1
+"28","ex1","Harmful native species interactions",5,"H5","Native Predators","SNPL",1,1,0,2,1
+"29","ex1","Harmful native species interactions",5,"H5","Native Predators","WEGU",0,NA,NA,NA,1
+"30","ex1","Harmful native species interactions",5,"H5","Native Predators","CAAU",1,1,0,2,1
+"31","ex1","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"32","ex1","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"33","ex1","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"34","ex1","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",1,1,0,2,2
+"35","ex1","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"36","ex1","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"37","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",0,NA,NA,NA,2
+"38","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,2
+"39","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",0,NA,NA,NA,2
+"40","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,2
+"41","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,2
+"42","ex1","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",0,NA,NA,NA,2
+"43","ex1","Human infrastructure",8,"H8","Oil Platforms","ASSP",0,NA,NA,NA,1
+"44","ex1","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"45","ex1","Human infrastructure",8,"H8","Oil Platforms","SCMU",0,NA,NA,NA,1
+"46","ex1","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"47","ex1","Human infrastructure",8,"H8","Oil Platforms","WEGU",0,NA,NA,NA,2
+"48","ex1","Human infrastructure",8,"H8","Oil Platforms","CAAU",0,NA,NA,NA,1
+"49","ex1","Human infrastructure",9,"H9","Offshore Wind","ASSP",0,NA,NA,NA,1
+"50","ex1","Human infrastructure",9,"H9","Offshore Wind","BRPE",0,NA,NA,NA,1
+"51","ex1","Human infrastructure",9,"H9","Offshore Wind","SCMU",0,NA,NA,NA,1
+"52","ex1","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,1
+"53","ex1","Human infrastructure",9,"H9","Offshore Wind","WEGU",0,NA,NA,NA,1
+"54","ex1","Human infrastructure",9,"H9","Offshore Wind","CAAU",0,NA,NA,NA,1
+"55","ex1","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,1
+"56","ex1","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,1
+"57","ex1","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,1
+"58","ex1","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,1
+"59","ex1","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,1
+"60","ex1","Human infrastructure",10,"H10","Shipping Traffic","CAAU",0,NA,NA,NA,1
+"61","ex1","Human infrastructure",11,"H11","Artificial Light","ASSP",0,NA,NA,NA,2
+"62","ex1","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,1
+"63","ex1","Human infrastructure",11,"H11","Artificial Light","SCMU",0,NA,NA,NA,2
+"64","ex1","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,1
+"65","ex1","Human infrastructure",11,"H11","Artificial Light","WEGU",0,NA,NA,NA,1
+"66","ex1","Human infrastructure",11,"H11","Artificial Light","CAAU",0,NA,NA,NA,2
+"67","ex1","Invasive species",12,"H12","Invasive Plants","ASSP",0,NA,NA,NA,2
+"68","ex1","Invasive species",12,"H12","Invasive Plants","BRPE",0,NA,NA,NA,1
+"69","ex1","Invasive species",12,"H12","Invasive Plants","SCMU",1,1,0,1,1
+"70","ex1","Invasive species",12,"H12","Invasive Plants","SNPL",0,NA,NA,NA,1
+"71","ex1","Invasive species",12,"H12","Invasive Plants","WEGU",0,NA,NA,NA,1
+"72","ex1","Invasive species",12,"H12","Invasive Plants","CAAU",1,1,0,1,1
+"73","ex1","Invasive species",13,"H13","Black Rats","ASSP",0,NA,NA,NA,1
+"74","ex1","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"75","ex1","Invasive species",13,"H13","Black Rats","SCMU",0,NA,NA,NA,1
+"76","ex1","Invasive species",13,"H13","Black Rats","SNPL",0,NA,NA,NA,1
+"77","ex1","Invasive species",13,"H13","Black Rats","WEGU",0,NA,NA,NA,2
+"78","ex1","Invasive species",13,"H13","Black Rats","CAAU",0,NA,NA,NA,2
+"79","ex1","Invasive species",14,"H14","New Invasive Species","ASSP",2,4,0,0,1
+"80","ex1","Invasive species",14,"H14","New Invasive Species","BRPE",1,4,2,0,1
+"81","ex1","Invasive species",14,"H14","New Invasive Species","SCMU",2,4,0,0,1
+"82","ex1","Invasive species",14,"H14","New Invasive Species","SNPL",1,4,2,0,1
+"83","ex1","Invasive species",14,"H14","New Invasive Species","WEGU",1,4,2,0,1
+"84","ex1","Invasive species",14,"H14","New Invasive Species","CAAU",2,4,0,0,1
+"85","ex1","Pollution",15,"H15","Oil Spills","ASSP",2,0,0,0,1
+"86","ex1","Pollution",15,"H15","Oil Spills","BRPE",2,0,0,0,1
+"87","ex1","Pollution",15,"H15","Oil Spills","SCMU",2,0,0,0,1
+"88","ex1","Pollution",15,"H15","Oil Spills","SNPL",2,0,0,0,1
+"89","ex1","Pollution",15,"H15","Oil Spills","WEGU",2,0,0,0,1
+"90","ex1","Pollution",15,"H15","Oil Spills","CAAU",2,0,0,0,1
+"91","ex1","Pollution",16,"H16","Residual DDT","ASSP",1,4,0,1,1
+"92","ex1","Pollution",16,"H16","Residual DDT","BRPE",2,4,0,1,1
+"93","ex1","Pollution",16,"H16","Residual DDT","SCMU",1,4,0,1,1
+"94","ex1","Pollution",16,"H16","Residual DDT","SNPL",1,4,0,1,1
+"95","ex1","Pollution",16,"H16","Residual DDT","WEGU",1,4,1,1,1
+"96","ex1","Pollution",16,"H16","Residual DDT","CAAU",1,4,1,1,1
+"97","ex1","Pollution",17,"H17","Contaminants","ASSP",1,0,2,0,1
+"98","ex1","Pollution",17,"H17","Contaminants","BRPE",0,NA,NA,NA,1
+"99","ex1","Pollution",17,"H17","Contaminants","SCMU",0,NA,NA,NA,1
+"100","ex1","Pollution",17,"H17","Contaminants","SNPL",0,NA,NA,NA,1
+"101","ex1","Pollution",17,"H17","Contaminants","WEGU",1,0,2,2,1
+"102","ex1","Pollution",17,"H17","Contaminants","CAAU",0,NA,NA,NA,1
+"103","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",1,1,1,1,2
+"104","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"105","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",0,NA,NA,NA,2
+"106","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,0,1,1,2
+"107","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"108","ex1","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",0,NA,NA,NA,2
+"109","ex1","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",1,0,2,1,2
+"110","ex1","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",1,0,1,2,2
+"111","ex1","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",1,0,2,1,2
+"112","ex1","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",1,0,1,1,1
+"113","ex1","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",1,0,1,2,1
+"114","ex1","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",1,0,0,3,2
+"115","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",1,0,2,1,2
+"116","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",1,0,1,2,2
+"117","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",1,0,2,2,2
+"118","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",1,0,1,1,1
+"119","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,1,2,1
+"120","ex1","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,0,3,2
+"121","ex1","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,2
+"122","ex1","Projected climate change impacts",21,"H21","Precipitation","BRPE",0,NA,NA,NA,1
+"123","ex1","Projected climate change impacts",21,"H21","Precipitation","SCMU",0,NA,NA,NA,1
+"124","ex1","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,1
+"125","ex1","Projected climate change impacts",21,"H21","Precipitation","WEGU",0,NA,NA,NA,1
+"126","ex1","Projected climate change impacts",21,"H21","Precipitation","CAAU",0,NA,NA,NA,1
+"127","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,2
+"128","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",0,NA,NA,NA,1
+"129","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",0,NA,NA,NA,2
+"130","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",0,NA,NA,NA,1
+"131","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",0,NA,NA,NA,1
+"132","ex1","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",0,NA,NA,NA,2
+"133","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",0,NA,NA,NA,1
+"134","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",1,0,1,1,1
+"135","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",1,0,1,1,1
+"136","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",0,NA,NA,NA,0
+"137","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",0,NA,NA,NA,1
+"138","ex1","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",1,0,1,2,1
+"139","ex1","Projected climate change impacts",24,"H24","Storm Events","ASSP",0,NA,NA,NA,2
+"140","ex1","Projected climate change impacts",24,"H24","Storm Events","BRPE",0,NA,NA,NA,2
+"141","ex1","Projected climate change impacts",24,"H24","Storm Events","SCMU",0,NA,NA,NA,2
+"142","ex1","Projected climate change impacts",24,"H24","Storm Events","SNPL",1,0,1,1,1
+"143","ex1","Projected climate change impacts",24,"H24","Storm Events","WEGU",0,NA,NA,NA,2
+"144","ex1","Projected climate change impacts",24,"H24","Storm Events","CAAU",0,NA,NA,NA,2
+"145","ex1","Projected climate change impacts",25,"H25","Wind","ASSP",0,NA,NA,NA,1
+"146","ex1","Projected climate change impacts",25,"H25","Wind","BRPE",0,NA,NA,NA,1
+"147","ex1","Projected climate change impacts",25,"H25","Wind","SCMU",0,NA,NA,NA,1
+"148","ex1","Projected climate change impacts",25,"H25","Wind","SNPL",0,NA,NA,NA,1
+"149","ex1","Projected climate change impacts",25,"H25","Wind","WEGU",0,NA,NA,NA,1
+"150","ex1","Projected climate change impacts",25,"H25","Wind","CAAU",0,NA,NA,NA,1
+"151","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",0,NA,NA,NA,1
+"152","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,1,1,1,2
+"153","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",0,NA,NA,NA,1
+"154","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",1,0,1,1,1
+"155","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,1,1,1,1
+"156","ex1","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",0,NA,NA,NA,1
+"157","ex1","Toxins/diseases/parasites",27,"H27","Disease","ASSP",0,NA,NA,NA,1
+"158","ex1","Toxins/diseases/parasites",27,"H27","Disease","BRPE",0,NA,NA,NA,1
+"159","ex1","Toxins/diseases/parasites",27,"H27","Disease","SCMU",0,NA,NA,NA,1
+"160","ex1","Toxins/diseases/parasites",27,"H27","Disease","SNPL",0,NA,NA,NA,1
+"161","ex1","Toxins/diseases/parasites",27,"H27","Disease","WEGU",0,NA,NA,NA,1
+"162","ex1","Toxins/diseases/parasites",27,"H27","Disease","CAAU",0,NA,NA,NA,1
+"163","ex1","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",0,NA,NA,NA,0
+"164","ex1","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",0,NA,NA,NA,0
+"165","ex1","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",0,NA,NA,NA,0
+"166","ex1","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",0,NA,NA,NA,0
+"167","ex1","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",0,NA,NA,NA,0
+"168","ex1","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",0,NA,NA,NA,0
+"169","ex2","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,1
+"170","ex2","Disturbance",1,"H1","Overflights","BRPE",2,3,1,3,2
+"171","ex2","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,1
+"172","ex2","Disturbance",1,"H1","Overflights","SNPL",1,3,2,3,2
+"173","ex2","Disturbance",1,"H1","Overflights","WEGU",1,3,2,3,2
+"174","ex2","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,1
+"175","ex2","Disturbance",2,"H2","Recreation","ASSP",2,3,1,3,2
+"176","ex2","Disturbance",2,"H2","Recreation","BRPE",2,3,1,3,2
+"177","ex2","Disturbance",2,"H2","Recreation","SCMU",1,3,2,2,1
+"178","ex2","Disturbance",2,"H2","Recreation","SNPL",2,3,2,3,2
+"179","ex2","Disturbance",2,"H2","Recreation","WEGU",1,3,2,2,2
+"180","ex2","Disturbance",2,"H2","Recreation","CAAU",1,3,2,2,1
+"181","ex2","Fisheries",3,"H3","Fishery Equipment","ASSP",1,1,4,1,1
+"182","ex2","Fisheries",3,"H3","Fishery Equipment","BRPE",1,2,1,2,2
+"183","ex2","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,4,1,1
+"184","ex2","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,2
+"185","ex2","Fisheries",3,"H3","Fishery Equipment","WEGU",1,2,1,2,2
+"186","ex2","Fisheries",3,"H3","Fishery Equipment","CAAU",1,1,4,1,1
+"187","ex2","Fisheries",4,"H4","Overfishing","ASSP",0,NA,NA,NA,0
+"188","ex2","Fisheries",4,"H4","Overfishing","BRPE",1,2,1,1,2
+"189","ex2","Fisheries",4,"H4","Overfishing","SCMU",0,NA,NA,NA,0
+"190","ex2","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,2
+"191","ex2","Fisheries",4,"H4","Overfishing","WEGU",0,NA,NA,NA,1
+"192","ex2","Fisheries",4,"H4","Overfishing","CAAU",0,NA,NA,NA,1
+"193","ex2","Harmful native species interactions",5,"H5","Native Predators","ASSP",0,NA,NA,NA,2
+"194","ex2","Harmful native species interactions",5,"H5","Native Predators","BRPE",1,1,1,1,2
+"195","ex2","Harmful native species interactions",5,"H5","Native Predators","SCMU",1,1,1,1,2
+"196","ex2","Harmful native species interactions",5,"H5","Native Predators","SNPL",1,1,1,1,2
+"197","ex2","Harmful native species interactions",5,"H5","Native Predators","WEGU",1,1,2,1,2
+"198","ex2","Harmful native species interactions",5,"H5","Native Predators","CAAU",1,1,1,1,2
+"199","ex2","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,1
+"200","ex2","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,1
+"201","ex2","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,1
+"202","ex2","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",3,1,0,0,2
+"203","ex2","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,1
+"204","ex2","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,1
+"205","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",0,NA,NA,NA,1
+"206","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",1,0,3,2,1
+"207","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",0,NA,NA,NA,1
+"208","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,1
+"209","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,0,3,2,1
+"210","ex2","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",0,NA,NA,NA,1
+"211","ex2","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,2,2,1,2
+"212","ex2","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,1
+"213","ex2","Human infrastructure",8,"H8","Oil Platforms","SCMU",2,2,1,1,2
+"214","ex2","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"215","ex2","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,2,3,1,1
+"216","ex2","Human infrastructure",8,"H8","Oil Platforms","CAAU",2,2,1,1,2
+"217","ex2","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,2,2,2,2
+"218","ex2","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,2,2,2,2
+"219","ex2","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,2,2,2
+"220","ex2","Human infrastructure",9,"H9","Offshore Wind","SNPL",1,2,3,3,1
+"221","ex2","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,2,2,2
+"222","ex2","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,2,2,2,2
+"223","ex2","Human infrastructure",10,"H10","Shipping Traffic","ASSP",1,0,4,0,1
+"224","ex2","Human infrastructure",10,"H10","Shipping Traffic","BRPE",1,0,4,0,1
+"225","ex2","Human infrastructure",10,"H10","Shipping Traffic","SCMU",1,0,4,0,1
+"226","ex2","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,2
+"227","ex2","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,0,4,0,1
+"228","ex2","Human infrastructure",10,"H10","Shipping Traffic","CAAU",1,0,4,0,1
+"229","ex2","Human infrastructure",11,"H11","Artificial Light","ASSP",2,2,0,0,2
+"230","ex2","Human infrastructure",11,"H11","Artificial Light","BRPE",1,1,3,1,1
+"231","ex2","Human infrastructure",11,"H11","Artificial Light","SCMU",2,2,0,0,2
+"232","ex2","Human infrastructure",11,"H11","Artificial Light","SNPL",1,1,3,1,1
+"233","ex2","Human infrastructure",11,"H11","Artificial Light","WEGU",1,1,3,1,1
+"234","ex2","Human infrastructure",11,"H11","Artificial Light","CAAU",2,2,0,0,2
+"235","ex2","Invasive species",12,"H12","Invasive Plants","ASSP",1,3,2,2,1
+"236","ex2","Invasive species",12,"H12","Invasive Plants","BRPE",1,3,2,2,2
+"237","ex2","Invasive species",12,"H12","Invasive Plants","SCMU",1,3,1,2,1
+"238","ex2","Invasive species",12,"H12","Invasive Plants","SNPL",1,3,1,2,2
+"239","ex2","Invasive species",12,"H12","Invasive Plants","WEGU",1,3,2,2,1
+"240","ex2","Invasive species",12,"H12","Invasive Plants","CAAU",1,3,1,2,1
+"241","ex2","Invasive species",13,"H13","Black Rats","ASSP",3,3,2,2,1
+"242","ex2","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"243","ex2","Invasive species",13,"H13","Black Rats","SCMU",3,3,2,2,1
+"244","ex2","Invasive species",13,"H13","Black Rats","SNPL",0,NA,NA,NA,2
+"245","ex2","Invasive species",13,"H13","Black Rats","WEGU",1,3,2,2,1
+"246","ex2","Invasive species",13,"H13","Black Rats","CAAU",3,3,2,2,1
+"247","ex2","Invasive species",14,"H14","New Invasive Species","ASSP",2,3,1,2,2
+"248","ex2","Invasive species",14,"H14","New Invasive Species","BRPE",2,3,1,2,2
+"249","ex2","Invasive species",14,"H14","New Invasive Species","SCMU",2,3,1,2,2
+"250","ex2","Invasive species",14,"H14","New Invasive Species","SNPL",2,3,1,2,2
+"251","ex2","Invasive species",14,"H14","New Invasive Species","WEGU",2,3,1,2,2
+"252","ex2","Invasive species",14,"H14","New Invasive Species","CAAU",2,3,1,2,2
+"253","ex2","Pollution",15,"H15","Oil Spills","ASSP",2,2,0,0,2
+"254","ex2","Pollution",15,"H15","Oil Spills","BRPE",2,2,0,0,2
+"255","ex2","Pollution",15,"H15","Oil Spills","SCMU",2,2,0,0,2
+"256","ex2","Pollution",15,"H15","Oil Spills","SNPL",1,2,0,0,2
+"257","ex2","Pollution",15,"H15","Oil Spills","WEGU",1,2,0,0,2
+"258","ex2","Pollution",15,"H15","Oil Spills","CAAU",2,2,0,0,2
+"259","ex2","Pollution",16,"H16","Residual DDT","ASSP",2,0,1,0,1
+"260","ex2","Pollution",16,"H16","Residual DDT","BRPE",2,0,0,0,2
+"261","ex2","Pollution",16,"H16","Residual DDT","SCMU",2,0,1,0,1
+"262","ex2","Pollution",16,"H16","Residual DDT","SNPL",0,NA,NA,NA,1
+"263","ex2","Pollution",16,"H16","Residual DDT","WEGU",2,0,1,0,1
+"264","ex2","Pollution",16,"H16","Residual DDT","CAAU",2,0,1,0,1
+"265","ex2","Pollution",17,"H17","Contaminants","ASSP",2,0,2,0,1
+"266","ex2","Pollution",17,"H17","Contaminants","BRPE",2,0,2,0,1
+"267","ex2","Pollution",17,"H17","Contaminants","SCMU",2,0,2,0,1
+"268","ex2","Pollution",17,"H17","Contaminants","SNPL",2,0,2,0,1
+"269","ex2","Pollution",17,"H17","Contaminants","WEGU",2,0,2,0,1
+"270","ex2","Pollution",17,"H17","Contaminants","CAAU",2,0,2,0,1
+"271","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",2,1,1,1,2
+"272","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",1,1,2,1,1
+"273","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",2,1,2,1,1
+"274","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,1,1,1,2
+"275","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",1,1,2,1,1
+"276","ex2","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",2,1,2,1,1
+"277","ex2","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",2,0,2,0,1
+"278","ex2","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,1,0,1
+"279","ex2","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,2,0,1
+"280","ex2","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",1,0,2,0,1
+"281","ex2","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",2,0,2,0,1
+"282","ex2","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",2,0,2,0,1
+"283","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",2,0,2,0,2
+"284","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",2,0,1,0,2
+"285","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",2,0,2,0,2
+"286","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",1,0,2,0,1
+"287","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",2,0,2,0,1
+"288","ex2","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,2,0,2
+"289","ex2","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,2
+"290","ex2","Projected climate change impacts",21,"H21","Precipitation","BRPE",1,1,2,1,1
+"291","ex2","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,1,2,1,1
+"292","ex2","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,2
+"293","ex2","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,1,2,1,1
+"294","ex2","Projected climate change impacts",21,"H21","Precipitation","CAAU",1,1,2,1,1
+"295","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",1,1,2,1,1
+"296","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",1,0,2,1,1
+"297","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,1,2,1,1
+"298","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,0,2,1,1
+"299","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",1,0,2,1,1
+"300","ex2","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,1,2,1,1
+"301","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",2,0,1,1,1
+"302","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",2,0,1,1,2
+"303","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,1,1,1
+"304","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",1,0,2,1,1
+"305","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,2,1,1
+"306","ex2","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",2,0,1,1,1
+"307","ex2","Projected climate change impacts",24,"H24","Storm Events","ASSP",2,1,1,0,2
+"308","ex2","Projected climate change impacts",24,"H24","Storm Events","BRPE",2,1,2,0,1
+"309","ex2","Projected climate change impacts",24,"H24","Storm Events","SCMU",2,1,2,0,1
+"310","ex2","Projected climate change impacts",24,"H24","Storm Events","SNPL",2,1,1,0,2
+"311","ex2","Projected climate change impacts",24,"H24","Storm Events","WEGU",1,1,2,0,1
+"312","ex2","Projected climate change impacts",24,"H24","Storm Events","CAAU",2,1,2,0,1
+"313","ex2","Projected climate change impacts",25,"H25","Wind","ASSP",2,0,3,0,0
+"314","ex2","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,3,0,0
+"315","ex2","Projected climate change impacts",25,"H25","Wind","SCMU",2,0,3,0,0
+"316","ex2","Projected climate change impacts",25,"H25","Wind","SNPL",2,0,3,0,1
+"317","ex2","Projected climate change impacts",25,"H25","Wind","WEGU",2,0,3,0,0
+"318","ex2","Projected climate change impacts",25,"H25","Wind","CAAU",2,0,3,0,0
+"319","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,2,1,1
+"320","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",2,0,1,1,2
+"321","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,2,1,1
+"322","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",0,NA,NA,NA,2
+"323","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,2,1,1
+"324","ex2","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,2,1,1
+"325","ex2","Toxins/diseases/parasites",27,"H27","Disease","ASSP",3,0,2,1,1
+"326","ex2","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,0,2,1,1
+"327","ex2","Toxins/diseases/parasites",27,"H27","Disease","SCMU",3,0,2,1,1
+"328","ex2","Toxins/diseases/parasites",27,"H27","Disease","SNPL",3,0,2,1,1
+"329","ex2","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,0,2,1,1
+"330","ex2","Toxins/diseases/parasites",27,"H27","Disease","CAAU",3,0,2,1,1
+"331","ex2","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,3,1,0
+"332","ex2","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,0,3,1,0
+"333","ex2","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,3,1,0
+"334","ex2","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,3,1,0
+"335","ex2","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,3,1,0
+"336","ex2","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,0,3,1,0
+"337","ex3","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,0
+"338","ex3","Disturbance",1,"H1","Overflights","BRPE",4,3,1,4,2
+"339","ex3","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,0
+"340","ex3","Disturbance",1,"H1","Overflights","SNPL",1,3,3,4,2
+"341","ex3","Disturbance",1,"H1","Overflights","WEGU",1,3,3,4,2
+"342","ex3","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,0
+"343","ex3","Disturbance",2,"H2","Recreation","ASSP",3,3,0,4,1
+"344","ex3","Disturbance",2,"H2","Recreation","BRPE",3,3,2,4,2
+"345","ex3","Disturbance",2,"H2","Recreation","SCMU",1,3,2,4,0
+"346","ex3","Disturbance",2,"H2","Recreation","SNPL",2,3,2,4,2
+"347","ex3","Disturbance",2,"H2","Recreation","WEGU",1,3,2,4,2
+"348","ex3","Disturbance",2,"H2","Recreation","CAAU",1,3,2,4,0
+"349","ex3","Fisheries",3,"H3","Fishery Equipment","ASSP",0,NA,NA,NA,1
+"350","ex3","Fisheries",3,"H3","Fishery Equipment","BRPE",3,2,0,3,2
+"351","ex3","Fisheries",3,"H3","Fishery Equipment","SCMU",0,NA,NA,NA,1
+"352","ex3","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,2
+"353","ex3","Fisheries",3,"H3","Fishery Equipment","WEGU",2,2,0,3,2
+"354","ex3","Fisheries",3,"H3","Fishery Equipment","CAAU",0,NA,NA,NA,1
+"355","ex3","Fisheries",4,"H4","Overfishing","ASSP",1,3,3,3,1
+"356","ex3","Fisheries",4,"H4","Overfishing","BRPE",3,3,3,3,2
+"357","ex3","Fisheries",4,"H4","Overfishing","SCMU",1,3,3,3,1
+"358","ex3","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,2
+"359","ex3","Fisheries",4,"H4","Overfishing","WEGU",1,3,3,3,2
+"360","ex3","Fisheries",4,"H4","Overfishing","CAAU",1,3,3,3,1
+"361","ex3","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,3,1,4,2
+"362","ex3","Harmful native species interactions",5,"H5","Native Predators","BRPE",3,3,1,4,2
+"363","ex3","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,3,1,4,1
+"364","ex3","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,3,1,4,2
+"365","ex3","Harmful native species interactions",5,"H5","Native Predators","WEGU",3,3,1,4,2
+"366","ex3","Harmful native species interactions",5,"H5","Native Predators","CAAU",3,3,1,4,2
+"367","ex3","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"368","ex3","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"369","ex3","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,0
+"370","ex3","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",2,3,0,4,2
+"371","ex3","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",2,3,0,4,2
+"372","ex3","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",1,3,0,4,1
+"373","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",2,2,2,2,1
+"374","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",1,2,1,4,2
+"375","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",2,2,3,2,1
+"376","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,2
+"377","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,2,1,4,2
+"378","ex3","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",2,2,2,2,1
+"379","ex3","Human infrastructure",8,"H8","Oil Platforms","ASSP",3,2,3,3,2
+"380","ex3","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"381","ex3","Human infrastructure",8,"H8","Oil Platforms","SCMU",3,2,3,3,2
+"382","ex3","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,2
+"383","ex3","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,2,3,3,2
+"384","ex3","Human infrastructure",8,"H8","Oil Platforms","CAAU",3,2,3,3,2
+"385","ex3","Human infrastructure",9,"H9","Offshore Wind","ASSP",3,2,3,3,1
+"386","ex3","Human infrastructure",9,"H9","Offshore Wind","BRPE",2,2,3,3,1
+"387","ex3","Human infrastructure",9,"H9","Offshore Wind","SCMU",3,2,3,3,1
+"388","ex3","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,2
+"389","ex3","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,3,3,1
+"390","ex3","Human infrastructure",9,"H9","Offshore Wind","CAAU",3,2,3,3,1
+"391","ex3","Human infrastructure",10,"H10","Shipping Traffic","ASSP",2,2,3,3,1
+"392","ex3","Human infrastructure",10,"H10","Shipping Traffic","BRPE",2,2,3,3,1
+"393","ex3","Human infrastructure",10,"H10","Shipping Traffic","SCMU",2,2,3,3,1
+"394","ex3","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,2
+"395","ex3","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,2,3,3,1
+"396","ex3","Human infrastructure",10,"H10","Shipping Traffic","CAAU",2,2,3,3,1
+"397","ex3","Human infrastructure",11,"H11","Artificial Light","ASSP",3,3,2,2,1
+"398","ex3","Human infrastructure",11,"H11","Artificial Light","BRPE",1,3,2,2,1
+"399","ex3","Human infrastructure",11,"H11","Artificial Light","SCMU",3,3,1,2,1
+"400","ex3","Human infrastructure",11,"H11","Artificial Light","SNPL",1,3,3,2,1
+"401","ex3","Human infrastructure",11,"H11","Artificial Light","WEGU",1,3,2,2,1
+"402","ex3","Human infrastructure",11,"H11","Artificial Light","CAAU",3,3,2,2,1
+"403","ex3","Invasive species",12,"H12","Invasive Plants","ASSP",0,NA,NA,NA,1
+"404","ex3","Invasive species",12,"H12","Invasive Plants","BRPE",2,3,1,4,2
+"405","ex3","Invasive species",12,"H12","Invasive Plants","SCMU",3,3,2,3,1
+"406","ex3","Invasive species",12,"H12","Invasive Plants","SNPL",3,3,2,4,2
+"407","ex3","Invasive species",12,"H12","Invasive Plants","WEGU",2,3,1,4,2
+"408","ex3","Invasive species",12,"H12","Invasive Plants","CAAU",3,3,1,4,1
+"409","ex3","Invasive species",13,"H13","Black Rats","ASSP",3,4,1,4,2
+"410","ex3","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"411","ex3","Invasive species",13,"H13","Black Rats","SCMU",2,4,1,2,1
+"412","ex3","Invasive species",13,"H13","Black Rats","SNPL",0,NA,NA,NA,2
+"413","ex3","Invasive species",13,"H13","Black Rats","WEGU",1,4,1,4,2
+"414","ex3","Invasive species",13,"H13","Black Rats","CAAU",3,4,1,4,2
+"415","ex3","Invasive species",14,"H14","New Invasive Species","ASSP",3,3,2,3,2
+"416","ex3","Invasive species",14,"H14","New Invasive Species","BRPE",3,3,2,3,2
+"417","ex3","Invasive species",14,"H14","New Invasive Species","SCMU",3,3,3,2,2
+"418","ex3","Invasive species",14,"H14","New Invasive Species","SNPL",3,3,3,3,2
+"419","ex3","Invasive species",14,"H14","New Invasive Species","WEGU",3,3,2,3,2
+"420","ex3","Invasive species",14,"H14","New Invasive Species","CAAU",3,3,2,3,2
+"421","ex3","Pollution",15,"H15","Oil Spills","ASSP",4,2,0,3,2
+"422","ex3","Pollution",15,"H15","Oil Spills","BRPE",4,2,0,3,2
+"423","ex3","Pollution",15,"H15","Oil Spills","SCMU",4,2,0,3,2
+"424","ex3","Pollution",15,"H15","Oil Spills","SNPL",4,2,0,3,2
+"425","ex3","Pollution",15,"H15","Oil Spills","WEGU",4,2,0,3,2
+"426","ex3","Pollution",15,"H15","Oil Spills","CAAU",4,2,0,3,2
+"427","ex3","Pollution",16,"H16","Residual DDT","ASSP",1,2,3,3,1
+"428","ex3","Pollution",16,"H16","Residual DDT","BRPE",3,2,0,3,2
+"429","ex3","Pollution",16,"H16","Residual DDT","SCMU",1,2,3,2,1
+"430","ex3","Pollution",16,"H16","Residual DDT","SNPL",0,NA,NA,NA,1
+"431","ex3","Pollution",16,"H16","Residual DDT","WEGU",2,2,3,3,1
+"432","ex3","Pollution",16,"H16","Residual DDT","CAAU",1,2,3,3,1
+"433","ex3","Pollution",17,"H17","Contaminants","ASSP",3,0,3,2,1
+"434","ex3","Pollution",17,"H17","Contaminants","BRPE",3,0,3,2,1
+"435","ex3","Pollution",17,"H17","Contaminants","SCMU",3,0,3,1,1
+"436","ex3","Pollution",17,"H17","Contaminants","SNPL",3,0,3,2,1
+"437","ex3","Pollution",17,"H17","Contaminants","WEGU",3,0,3,2,1
+"438","ex3","Pollution",17,"H17","Contaminants","CAAU",3,0,3,2,1
+"439","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",3,2,1,4,2
+"440","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",1,2,1,4,2
+"441","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",1,2,1,3,1
+"442","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",3,2,1,4,2
+"443","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",2,2,1,4,2
+"444","ex3","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",1,2,1,4,1
+"445","ex3","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",3,0,1,3,2
+"446","ex3","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",3,0,1,3,2
+"447","ex3","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",3,0,2,3,2
+"448","ex3","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",2,0,3,3,1
+"449","ex3","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",2,0,1,3,2
+"450","ex3","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",3,0,1,3,2
+"451","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",3,0,1,3,2
+"452","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",3,0,1,3,2
+"453","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",3,0,2,3,2
+"454","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",2,0,3,3,1
+"455","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",2,0,1,3,2
+"456","ex3","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",3,0,1,3,2
+"457","ex3","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"458","ex3","Projected climate change impacts",21,"H21","Precipitation","BRPE",2,3,2,3,1
+"459","ex3","Projected climate change impacts",21,"H21","Precipitation","SCMU",3,3,2,3,1
+"460","ex3","Projected climate change impacts",21,"H21","Precipitation","SNPL",3,3,2,3,2
+"461","ex3","Projected climate change impacts",21,"H21","Precipitation","WEGU",2,3,2,3,1
+"462","ex3","Projected climate change impacts",21,"H21","Precipitation","CAAU",2,3,2,3,1
+"463","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",2,2,2,3,1
+"464","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",1,0,2,2,1
+"465","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",2,0,2,1,1
+"466","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",2,0,2,2,1
+"467","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",1,0,2,2,1
+"468","ex3","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",2,2,2,3,1
+"469","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",3,0,1,3,2
+"470","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",3,0,1,3,2
+"471","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",3,0,2,3,2
+"472","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",2,0,3,3,1
+"473","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",2,0,1,3,2
+"474","ex3","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",3,0,1,3,2
+"475","ex3","Projected climate change impacts",24,"H24","Storm Events","ASSP",2,3,2,3,1
+"476","ex3","Projected climate change impacts",24,"H24","Storm Events","BRPE",1,2,3,4,2
+"477","ex3","Projected climate change impacts",24,"H24","Storm Events","SCMU",1,2,3,2,1
+"478","ex3","Projected climate change impacts",24,"H24","Storm Events","SNPL",3,3,1,4,2
+"479","ex3","Projected climate change impacts",24,"H24","Storm Events","WEGU",2,2,3,4,2
+"480","ex3","Projected climate change impacts",24,"H24","Storm Events","CAAU",1,3,3,3,1
+"481","ex3","Projected climate change impacts",25,"H25","Wind","ASSP",3,0,3,2,1
+"482","ex3","Projected climate change impacts",25,"H25","Wind","BRPE",3,0,3,2,1
+"483","ex3","Projected climate change impacts",25,"H25","Wind","SCMU",3,0,3,2,1
+"484","ex3","Projected climate change impacts",25,"H25","Wind","SNPL",3,0,3,2,1
+"485","ex3","Projected climate change impacts",25,"H25","Wind","WEGU",2,0,3,2,1
+"486","ex3","Projected climate change impacts",25,"H25","Wind","CAAU",3,0,3,2,1
+"487","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,3,2,1
+"488","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",3,0,1,3,2
+"489","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,3,1,1
+"490","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",0,NA,NA,NA,2
+"491","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",2,0,1,3,2
+"492","ex3","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,3,2,1
+"493","ex3","Toxins/diseases/parasites",27,"H27","Disease","ASSP",2,0,3,3,1
+"494","ex3","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,0,2,3,1
+"495","ex3","Toxins/diseases/parasites",27,"H27","Disease","SCMU",2,0,3,2,1
+"496","ex3","Toxins/diseases/parasites",27,"H27","Disease","SNPL",2,0,2,3,1
+"497","ex3","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,0,2,3,1
+"498","ex3","Toxins/diseases/parasites",27,"H27","Disease","CAAU",2,0,3,3,1
+"499","ex3","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,3,2,1
+"500","ex3","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,0,3,2,1
+"501","ex3","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,3,1,1
+"502","ex3","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,3,2,1
+"503","ex3","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,3,2,1
+"504","ex3","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,0,3,2,1
+"505","ex4","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,1
+"506","ex4","Disturbance",1,"H1","Overflights","BRPE",2,3,1,3,2
+"507","ex4","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,1
+"508","ex4","Disturbance",1,"H1","Overflights","SNPL",1,1,2,3,2
+"509","ex4","Disturbance",1,"H1","Overflights","WEGU",2,3,1,3,2
+"510","ex4","Disturbance",1,"H1","Overflights","CAAU",NA,NA,NA,NA,NA
+"511","ex4","Disturbance",2,"H2","Recreation","ASSP",1,3,1,3,2
+"512","ex4","Disturbance",2,"H2","Recreation","BRPE",2,3,1,3,2
+"513","ex4","Disturbance",2,"H2","Recreation","SCMU",1,3,1,3,2
+"514","ex4","Disturbance",2,"H2","Recreation","SNPL",2,3,1,3,2
+"515","ex4","Disturbance",2,"H2","Recreation","WEGU",2,3,1,3,2
+"516","ex4","Disturbance",2,"H2","Recreation","CAAU",NA,NA,NA,NA,NA
+"517","ex4","Fisheries",3,"H3","Fishery Equipment","ASSP",1,1,2,2,2
+"518","ex4","Fisheries",3,"H3","Fishery Equipment","BRPE",1,2,1,2,2
+"519","ex4","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,2,2,2
+"520","ex4","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,2
+"521","ex4","Fisheries",3,"H3","Fishery Equipment","WEGU",2,2,2,2,2
+"522","ex4","Fisheries",3,"H3","Fishery Equipment","CAAU",NA,NA,NA,NA,NA
+"523","ex4","Fisheries",4,"H4","Overfishing","ASSP",1,1,3,1,2
+"524","ex4","Fisheries",4,"H4","Overfishing","BRPE",3,2,1,1,2
+"525","ex4","Fisheries",4,"H4","Overfishing","SCMU",1,1,3,1,2
+"526","ex4","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,2
+"527","ex4","Fisheries",4,"H4","Overfishing","WEGU",2,2,1,1,2
+"528","ex4","Fisheries",4,"H4","Overfishing","CAAU",NA,NA,NA,NA,NA
+"529","ex4","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,2,1,4,1
+"530","ex4","Harmful native species interactions",5,"H5","Native Predators","BRPE",1,2,1,4,1
+"531","ex4","Harmful native species interactions",5,"H5","Native Predators","SCMU",2,2,1,4,1
+"532","ex4","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,2,1,4,1
+"533","ex4","Harmful native species interactions",5,"H5","Native Predators","WEGU",1,2,1,4,1
+"534","ex4","Harmful native species interactions",5,"H5","Native Predators","CAAU",NA,NA,NA,NA,NA
+"535","ex4","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"536","ex4","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"537","ex4","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"538","ex4","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",2,1,1,3,2
+"539","ex4","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"540","ex4","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",NA,NA,NA,NA,NA
+"541","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,0,3,0,1
+"542","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,1
+"543","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,0,4,0,1
+"544","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,1
+"545","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,1,3,0,1
+"546","ex4","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",NA,NA,NA,NA,NA
+"547","ex4","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,1,2,1,2
+"548","ex4","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"549","ex4","Human infrastructure",8,"H8","Oil Platforms","SCMU",1,1,2,1,2
+"550","ex4","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,2
+"551","ex4","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,1,2,1,2
+"552","ex4","Human infrastructure",8,"H8","Oil Platforms","CAAU",NA,NA,NA,NA,NA
+"553","ex4","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,2,3,2,2
+"554","ex4","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,2,2,2,2
+"555","ex4","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,3,2,2
+"556","ex4","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,2
+"557","ex4","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,2,2,2
+"558","ex4","Human infrastructure",9,"H9","Offshore Wind","CAAU",NA,NA,NA,NA,NA
+"559","ex4","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,1
+"560","ex4","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,1
+"561","ex4","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,1
+"562","ex4","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,1
+"563","ex4","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,1
+"564","ex4","Human infrastructure",10,"H10","Shipping Traffic","CAAU",NA,NA,NA,NA,NA
+"565","ex4","Human infrastructure",11,"H11","Artificial Light","ASSP",2,2,1,2,2
+"566","ex4","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,2
+"567","ex4","Human infrastructure",11,"H11","Artificial Light","SCMU",2,2,1,2,2
+"568","ex4","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,2
+"569","ex4","Human infrastructure",11,"H11","Artificial Light","WEGU",1,2,3,2,2
+"570","ex4","Human infrastructure",11,"H11","Artificial Light","CAAU",NA,NA,NA,NA,NA
+"571","ex4","Invasive species",12,"H12","Invasive Plants","ASSP",1,2,2,3,1
+"572","ex4","Invasive species",12,"H12","Invasive Plants","BRPE",1,2,2,3,2
+"573","ex4","Invasive species",12,"H12","Invasive Plants","SCMU",2,2,1,3,1
+"574","ex4","Invasive species",12,"H12","Invasive Plants","SNPL",1,2,2,3,2
+"575","ex4","Invasive species",12,"H12","Invasive Plants","WEGU",1,2,2,3,2
+"576","ex4","Invasive species",12,"H12","Invasive Plants","CAAU",NA,NA,NA,NA,NA
+"577","ex4","Invasive species",13,"H13","Black Rats","ASSP",2,4,1,3,2
+"578","ex4","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"579","ex4","Invasive species",13,"H13","Black Rats","SCMU",3,4,1,3,2
+"580","ex4","Invasive species",13,"H13","Black Rats","SNPL",2,4,2,3,2
+"581","ex4","Invasive species",13,"H13","Black Rats","WEGU",2,4,3,3,2
+"582","ex4","Invasive species",13,"H13","Black Rats","CAAU",NA,NA,NA,NA,NA
+"583","ex4","Invasive species",14,"H14","New Invasive Species","ASSP",3,3,0,2,2
+"584","ex4","Invasive species",14,"H14","New Invasive Species","BRPE",3,3,0,2,2
+"585","ex4","Invasive species",14,"H14","New Invasive Species","SCMU",3,3,0,2,2
+"586","ex4","Invasive species",14,"H14","New Invasive Species","SNPL",3,3,0,2,2
+"587","ex4","Invasive species",14,"H14","New Invasive Species","WEGU",2,3,0,2,2
+"588","ex4","Invasive species",14,"H14","New Invasive Species","CAAU",NA,NA,NA,NA,NA
+"589","ex4","Pollution",15,"H15","Oil Spills","ASSP",2,1,0,1,2
+"590","ex4","Pollution",15,"H15","Oil Spills","BRPE",2,1,0,1,2
+"591","ex4","Pollution",15,"H15","Oil Spills","SCMU",3,1,0,1,2
+"592","ex4","Pollution",15,"H15","Oil Spills","SNPL",3,1,0,1,2
+"593","ex4","Pollution",15,"H15","Oil Spills","WEGU",2,1,0,1,2
+"594","ex4","Pollution",15,"H15","Oil Spills","CAAU",NA,NA,NA,NA,NA
+"595","ex4","Pollution",16,"H16","Residual DDT","ASSP",1,0,1,2,2
+"596","ex4","Pollution",16,"H16","Residual DDT","BRPE",3,0,1,2,2
+"597","ex4","Pollution",16,"H16","Residual DDT","SCMU",1,0,1,2,2
+"598","ex4","Pollution",16,"H16","Residual DDT","SNPL",1,0,1,2,2
+"599","ex4","Pollution",16,"H16","Residual DDT","WEGU",2,0,1,2,2
+"600","ex4","Pollution",16,"H16","Residual DDT","CAAU",NA,NA,NA,NA,NA
+"601","ex4","Pollution",17,"H17","Contaminants","ASSP",1,0,2,2,2
+"602","ex4","Pollution",17,"H17","Contaminants","BRPE",1,0,2,2,2
+"603","ex4","Pollution",17,"H17","Contaminants","SCMU",1,0,2,2,2
+"604","ex4","Pollution",17,"H17","Contaminants","SNPL",1,0,3,2,2
+"605","ex4","Pollution",17,"H17","Contaminants","WEGU",2,0,2,2,2
+"606","ex4","Pollution",17,"H17","Contaminants","CAAU",NA,NA,NA,NA,NA
+"607","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",2,0,2,2,2
+"608","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"609","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",2,0,2,2,2
+"610","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,0,2,2,2
+"611","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"612","ex4","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",NA,NA,NA,NA,NA
+"613","ex4","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",3,0,1,1,2
+"614","ex4","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,1,1,2
+"615","ex4","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,1,1,2
+"616","ex4","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",1,0,1,1,2
+"617","ex4","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",2,0,1,1,2
+"618","ex4","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",NA,NA,NA,NA,NA
+"619","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",2,0,2,2,2
+"620","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",2,0,2,2,2
+"621","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",2,0,2,2,2
+"622","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",1,0,2,2,2
+"623","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",2,0,2,2,2
+"624","ex4","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",NA,NA,NA,NA,NA
+"625","ex4","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"626","ex4","Projected climate change impacts",21,"H21","Precipitation","BRPE",1,1,2,1,1
+"627","ex4","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,1,2,1,1
+"628","ex4","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,1
+"629","ex4","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,1,2,1,1
+"630","ex4","Projected climate change impacts",21,"H21","Precipitation","CAAU",NA,NA,NA,NA,NA
+"631","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,1
+"632","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",2,0,3,2,1
+"633","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,1,3,2,1
+"634","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,0,3,2,1
+"635","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,0,3,2,1
+"636","ex4","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",NA,NA,NA,NA,NA
+"637","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",3,0,2,1,2
+"638","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",3,0,2,1,2
+"639","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,2,NA,2
+"640","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",1,0,3,1,2
+"641","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,2,1,2
+"642","ex4","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",NA,NA,NA,NA,NA
+"643","ex4","Projected climate change impacts",24,"H24","Storm Events","ASSP",1,0,2,1,2
+"644","ex4","Projected climate change impacts",24,"H24","Storm Events","BRPE",1,0,2,2,2
+"645","ex4","Projected climate change impacts",24,"H24","Storm Events","SCMU",2,0,2,1,2
+"646","ex4","Projected climate change impacts",24,"H24","Storm Events","SNPL",2,0,1,2,2
+"647","ex4","Projected climate change impacts",24,"H24","Storm Events","WEGU",2,0,2,2,2
+"648","ex4","Projected climate change impacts",24,"H24","Storm Events","CAAU",NA,NA,NA,NA,NA
+"649","ex4","Projected climate change impacts",25,"H25","Wind","ASSP",1,0,3,1,2
+"650","ex4","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,3,1,2
+"651","ex4","Projected climate change impacts",25,"H25","Wind","SCMU",1,0,3,1,2
+"652","ex4","Projected climate change impacts",25,"H25","Wind","SNPL",1,0,3,1,2
+"653","ex4","Projected climate change impacts",25,"H25","Wind","WEGU",1,0,4,1,2
+"654","ex4","Projected climate change impacts",25,"H25","Wind","CAAU",NA,NA,NA,NA,NA
+"655","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,3,1,1
+"656","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,0,2,1,1
+"657","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,3,1,1
+"658","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",1,0,2,1,1
+"659","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,2,1,1
+"660","ex4","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",NA,NA,NA,NA,NA
+"661","ex4","Toxins/diseases/parasites",27,"H27","Disease","ASSP",1,1,2,2,2
+"662","ex4","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,1,2,3,2
+"663","ex4","Toxins/diseases/parasites",27,"H27","Disease","SCMU",1,1,2,2,2
+"664","ex4","Toxins/diseases/parasites",27,"H27","Disease","SNPL",2,0,2,2,2
+"665","ex4","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,1,2,2,2
+"666","ex4","Toxins/diseases/parasites",27,"H27","Disease","CAAU",NA,NA,NA,NA,NA
+"667","ex4","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,3,2,2
+"668","ex4","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,0,3,2,2
+"669","ex4","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,3,2,2
+"670","ex4","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,3,2,2
+"671","ex4","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,3,2,2
+"672","ex4","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",NA,NA,NA,NA,NA
+"673","ex5","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,1
+"674","ex5","Disturbance",1,"H1","Overflights","BRPE",2,3,3,4,1
+"675","ex5","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,1
+"676","ex5","Disturbance",1,"H1","Overflights","SNPL",1,3,3,4,0
+"677","ex5","Disturbance",1,"H1","Overflights","WEGU",1,3,3,4,1
+"678","ex5","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,1
+"679","ex5","Disturbance",2,"H2","Recreation","ASSP",1,3,2,3,1
+"680","ex5","Disturbance",2,"H2","Recreation","BRPE",3,3,1,4,1
+"681","ex5","Disturbance",2,"H2","Recreation","SCMU",1,3,2,2,1
+"682","ex5","Disturbance",2,"H2","Recreation","SNPL",3,3,2,3,0
+"683","ex5","Disturbance",2,"H2","Recreation","WEGU",2,3,2,4,1
+"684","ex5","Disturbance",2,"H2","Recreation","CAAU",1,2,2,1,1
+"685","ex5","Fisheries",3,"H3","Fishery Equipment","ASSP",1,1,2,2,1
+"686","ex5","Fisheries",3,"H3","Fishery Equipment","BRPE",2,3,1,3,1
+"687","ex5","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,3,2,1
+"688","ex5","Fisheries",3,"H3","Fishery Equipment","SNPL",1,1,3,1,0
+"689","ex5","Fisheries",3,"H3","Fishery Equipment","WEGU",1,2,2,3,1
+"690","ex5","Fisheries",3,"H3","Fishery Equipment","CAAU",1,1,3,3,1
+"691","ex5","Fisheries",4,"H4","Overfishing","ASSP",1,1,3,2,0
+"692","ex5","Fisheries",4,"H4","Overfishing","BRPE",3,3,1,3,1
+"693","ex5","Fisheries",4,"H4","Overfishing","SCMU",1,1,3,2,0
+"694","ex5","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,0
+"695","ex5","Fisheries",4,"H4","Overfishing","WEGU",2,2,2,2,1
+"696","ex5","Fisheries",4,"H4","Overfishing","CAAU",1,1,3,1,0
+"697","ex5","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,3,1,4,2
+"698","ex5","Harmful native species interactions",5,"H5","Native Predators","BRPE",1,2,1,4,2
+"699","ex5","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,2,1,4,2
+"700","ex5","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,2,2,4,0
+"701","ex5","Harmful native species interactions",5,"H5","Native Predators","WEGU",1,2,2,4,1
+"702","ex5","Harmful native species interactions",5,"H5","Native Predators","CAAU",2,2,1,3,2
+"703","ex5","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,1
+"704","ex5","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",1,1,2,3,1
+"705","ex5","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",1,1,1,2,1
+"706","ex5","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",3,1,2,4,1
+"707","ex5","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",1,2,2,3,1
+"708","ex5","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,1
+"709","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,1,3,1,1
+"710","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",1,1,3,2,1
+"711","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,1,3,2,1
+"712","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",1,1,3,2,1
+"713","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,1,3,2,1
+"714","ex5","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",1,1,3,1,1
+"715","ex5","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,2,2,2,0
+"716","ex5","Human infrastructure",8,"H8","Oil Platforms","BRPE",1,1,3,2,0
+"717","ex5","Human infrastructure",8,"H8","Oil Platforms","SCMU",1,1,2,2,0
+"718","ex5","Human infrastructure",8,"H8","Oil Platforms","SNPL",1,1,3,1,0
+"719","ex5","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,1,3,2,0
+"720","ex5","Human infrastructure",8,"H8","Oil Platforms","CAAU",1,1,2,1,0
+"721","ex5","Human infrastructure",9,"H9","Offshore Wind","ASSP",2,2,3,3,0
+"722","ex5","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,2,3,3,0
+"723","ex5","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,3,3,0
+"724","ex5","Human infrastructure",9,"H9","Offshore Wind","SNPL",1,1,3,2,0
+"725","ex5","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,3,3,0
+"726","ex5","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,1,3,2,0
+"727","ex5","Human infrastructure",10,"H10","Shipping Traffic","ASSP",1,1,3,2,0
+"728","ex5","Human infrastructure",10,"H10","Shipping Traffic","BRPE",1,1,3,2,0
+"729","ex5","Human infrastructure",10,"H10","Shipping Traffic","SCMU",1,1,3,2,0
+"730","ex5","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,0
+"731","ex5","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,1,3,2,0
+"732","ex5","Human infrastructure",10,"H10","Shipping Traffic","CAAU",1,1,3,1,0
+"733","ex5","Human infrastructure",11,"H11","Artificial Light","ASSP",3,3,2,3,1
+"734","ex5","Human infrastructure",11,"H11","Artificial Light","BRPE",1,1,3,1,1
+"735","ex5","Human infrastructure",11,"H11","Artificial Light","SCMU",3,3,2,3,1
+"736","ex5","Human infrastructure",11,"H11","Artificial Light","SNPL",1,1,2,2,0
+"737","ex5","Human infrastructure",11,"H11","Artificial Light","WEGU",1,2,3,2,1
+"738","ex5","Human infrastructure",11,"H11","Artificial Light","CAAU",3,2,3,2,1
+"739","ex5","Invasive species",12,"H12","Invasive Plants","ASSP",1,1,2,3,2
+"740","ex5","Invasive species",12,"H12","Invasive Plants","BRPE",1,2,2,3,2
+"741","ex5","Invasive species",12,"H12","Invasive Plants","SCMU",2,2,1,3,2
+"742","ex5","Invasive species",12,"H12","Invasive Plants","SNPL",1,2,2,3,0
+"743","ex5","Invasive species",12,"H12","Invasive Plants","WEGU",1,2,2,3,2
+"744","ex5","Invasive species",12,"H12","Invasive Plants","CAAU",2,2,1,2,2
+"745","ex5","Invasive species",13,"H13","Black Rats","ASSP",3,4,2,4,1
+"746","ex5","Invasive species",13,"H13","Black Rats","BRPE",2,4,3,4,1
+"747","ex5","Invasive species",13,"H13","Black Rats","SCMU",3,4,2,4,1
+"748","ex5","Invasive species",13,"H13","Black Rats","SNPL",3,4,2,4,1
+"749","ex5","Invasive species",13,"H13","Black Rats","WEGU",2,3,3,4,1
+"750","ex5","Invasive species",13,"H13","Black Rats","CAAU",3,4,2,4,1
+"751","ex5","Invasive species",14,"H14","New Invasive Species","ASSP",4,4,1,4,2
+"752","ex5","Invasive species",14,"H14","New Invasive Species","BRPE",3,3,2,3,2
+"753","ex5","Invasive species",14,"H14","New Invasive Species","SCMU",4,4,2,4,2
+"754","ex5","Invasive species",14,"H14","New Invasive Species","SNPL",3,3,2,4,1
+"755","ex5","Invasive species",14,"H14","New Invasive Species","WEGU",2,3,2,4,2
+"756","ex5","Invasive species",14,"H14","New Invasive Species","CAAU",4,3,2,4,2
+"757","ex5","Pollution",15,"H15","Oil Spills","ASSP",2,2,2,3,1
+"758","ex5","Pollution",15,"H15","Oil Spills","BRPE",3,3,1,3,1
+"759","ex5","Pollution",15,"H15","Oil Spills","SCMU",3,2,2,3,1
+"760","ex5","Pollution",15,"H15","Oil Spills","SNPL",3,3,2,3,0
+"761","ex5","Pollution",15,"H15","Oil Spills","WEGU",3,3,1,3,1
+"762","ex5","Pollution",15,"H15","Oil Spills","CAAU",2,2,2,2,1
+"763","ex5","Pollution",16,"H16","Residual DDT","ASSP",2,2,2,4,1
+"764","ex5","Pollution",16,"H16","Residual DDT","BRPE",4,3,0,4,1
+"765","ex5","Pollution",16,"H16","Residual DDT","SCMU",2,3,2,3,1
+"766","ex5","Pollution",16,"H16","Residual DDT","SNPL",1,1,2,3,0
+"767","ex5","Pollution",16,"H16","Residual DDT","WEGU",2,2,1,3,1
+"768","ex5","Pollution",16,"H16","Residual DDT","CAAU",2,3,1,3,1
+"769","ex5","Pollution",17,"H17","Contaminants","ASSP",2,2,3,3,1
+"770","ex5","Pollution",17,"H17","Contaminants","BRPE",2,2,2,3,1
+"771","ex5","Pollution",17,"H17","Contaminants","SCMU",2,2,3,3,1
+"772","ex5","Pollution",17,"H17","Contaminants","SNPL",1,1,2,3,0
+"773","ex5","Pollution",17,"H17","Contaminants","WEGU",2,2,3,3,1
+"774","ex5","Pollution",17,"H17","Contaminants","CAAU",2,2,3,4,1
+"775","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",3,3,2,3,2
+"776","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",1,1,2,3,1
+"777","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",3,3,2,3,2
+"778","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,1,2,3,1
+"779","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",1,1,2,3,1
+"780","ex5","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",2,2,3,3,2
+"781","ex5","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",3,0,2,3,1
+"782","ex5","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",4,0,2,3,1
+"783","ex5","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",3,0,2,3,1
+"784","ex5","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",2,0,2,3,0
+"785","ex5","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",4,0,2,3,1
+"786","ex5","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",3,0,2,3,1
+"787","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",3,0,2,3,2
+"788","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",4,0,2,3,2
+"789","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",3,0,2,3,2
+"790","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",2,0,2,3,0
+"791","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",4,0,2,3,2
+"792","ex5","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",3,0,2,3,2
+"793","ex5","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"794","ex5","Projected climate change impacts",21,"H21","Precipitation","BRPE",3,2,3,3,1
+"795","ex5","Projected climate change impacts",21,"H21","Precipitation","SCMU",2,2,2,3,1
+"796","ex5","Projected climate change impacts",21,"H21","Precipitation","SNPL",1,1,1,1,0
+"797","ex5","Projected climate change impacts",21,"H21","Precipitation","WEGU",2,2,2,3,1
+"798","ex5","Projected climate change impacts",21,"H21","Precipitation","CAAU",1,1,3,3,1
+"799","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",1,2,3,3,1
+"800","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",3,1,2,3,1
+"801","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,1,2,3,1
+"802","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,1,3,3,0
+"803","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,2,2,3,1
+"804","ex5","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,1,2,3,1
+"805","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",1,0,2,3,1
+"806","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",3,0,2,3,2
+"807","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,2,3,1
+"808","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",2,0,2,3,0
+"809","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",2,0,2,3,2
+"810","ex5","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",2,0,2,3,1
+"811","ex5","Projected climate change impacts",24,"H24","Storm Events","ASSP",3,3,2,3,2
+"812","ex5","Projected climate change impacts",24,"H24","Storm Events","BRPE",2,1,2,3,1
+"813","ex5","Projected climate change impacts",24,"H24","Storm Events","SCMU",3,3,2,3,2
+"814","ex5","Projected climate change impacts",24,"H24","Storm Events","SNPL",3,2,3,3,0
+"815","ex5","Projected climate change impacts",24,"H24","Storm Events","WEGU",2,1,2,3,1
+"816","ex5","Projected climate change impacts",24,"H24","Storm Events","CAAU",2,3,2,3,2
+"817","ex5","Projected climate change impacts",25,"H25","Wind","ASSP",2,0,3,3,0
+"818","ex5","Projected climate change impacts",25,"H25","Wind","BRPE",3,0,3,3,0
+"819","ex5","Projected climate change impacts",25,"H25","Wind","SCMU",3,0,3,3,0
+"820","ex5","Projected climate change impacts",25,"H25","Wind","SNPL",3,0,3,3,0
+"821","ex5","Projected climate change impacts",25,"H25","Wind","WEGU",2,0,3,3,0
+"822","ex5","Projected climate change impacts",25,"H25","Wind","CAAU",2,0,3,3,0
+"823","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,3,3,1
+"824","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",2,0,3,3,1
+"825","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,3,3,1
+"826","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",2,0,3,3,0
+"827","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,3,3,1
+"828","ex5","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,3,3,1
+"829","ex5","Toxins/diseases/parasites",27,"H27","Disease","ASSP",3,1,4,3,1
+"830","ex5","Toxins/diseases/parasites",27,"H27","Disease","BRPE",4,1,3,3,1
+"831","ex5","Toxins/diseases/parasites",27,"H27","Disease","SCMU",3,1,3,3,1
+"832","ex5","Toxins/diseases/parasites",27,"H27","Disease","SNPL",3,1,3,3,0
+"833","ex5","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,1,3,3,1
+"834","ex5","Toxins/diseases/parasites",27,"H27","Disease","CAAU",3,1,4,3,1
+"835","ex5","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,4,3,0
+"836","ex5","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",2,0,3,3,0
+"837","ex5","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,3,3,0
+"838","ex5","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,3,3,0
+"839","ex5","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,3,3,0
+"840","ex5","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,0,3,3,0
+"841","ex6","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"842","ex6","Disturbance",1,"H1","Overflights","BRPE",1,3,0,2,2
+"843","ex6","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"844","ex6","Disturbance",1,"H1","Overflights","SNPL",1,3,0,2,2
+"845","ex6","Disturbance",1,"H1","Overflights","WEGU",1,3,0,2,2
+"846","ex6","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"847","ex6","Disturbance",2,"H2","Recreation","ASSP",1,3,1,2,2
+"848","ex6","Disturbance",2,"H2","Recreation","BRPE",1,3,1,2,2
+"849","ex6","Disturbance",2,"H2","Recreation","SCMU",1,3,1,2,2
+"850","ex6","Disturbance",2,"H2","Recreation","SNPL",1,3,1,2,2
+"851","ex6","Disturbance",2,"H2","Recreation","WEGU",1,3,1,2,2
+"852","ex6","Disturbance",2,"H2","Recreation","CAAU",1,3,1,2,2
+"853","ex6","Fisheries",3,"H3","Fishery Equipment","ASSP",1,2,2,3,1
+"854","ex6","Fisheries",3,"H3","Fishery Equipment","BRPE",1,2,2,3,1
+"855","ex6","Fisheries",3,"H3","Fishery Equipment","SCMU",1,2,2,3,1
+"856","ex6","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,1
+"857","ex6","Fisheries",3,"H3","Fishery Equipment","WEGU",1,2,2,3,1
+"858","ex6","Fisheries",3,"H3","Fishery Equipment","CAAU",1,2,2,3,1
+"859","ex6","Fisheries",4,"H4","Overfishing","ASSP",1,2,2,2,0
+"860","ex6","Fisheries",4,"H4","Overfishing","BRPE",1,2,2,2,0
+"861","ex6","Fisheries",4,"H4","Overfishing","SCMU",1,2,2,2,0
+"862","ex6","Fisheries",4,"H4","Overfishing","SNPL",1,2,2,2,0
+"863","ex6","Fisheries",4,"H4","Overfishing","WEGU",1,2,2,2,0
+"864","ex6","Fisheries",4,"H4","Overfishing","CAAU",1,2,2,2,0
+"865","ex6","Harmful native species interactions",5,"H5","Native Predators","ASSP",2,3,2,2,1
+"866","ex6","Harmful native species interactions",5,"H5","Native Predators","BRPE",0,NA,NA,NA,1
+"867","ex6","Harmful native species interactions",5,"H5","Native Predators","SCMU",1,3,1,2,1
+"868","ex6","Harmful native species interactions",5,"H5","Native Predators","SNPL",2,3,1,2,1
+"869","ex6","Harmful native species interactions",5,"H5","Native Predators","WEGU",0,NA,NA,NA,1
+"870","ex6","Harmful native species interactions",5,"H5","Native Predators","CAAU",1,3,1,2,1
+"871","ex6","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,1
+"872","ex6","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",1,2,1,2,1
+"873","ex6","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",1,2,1,2,1
+"874","ex6","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",1,2,1,2,1
+"875","ex6","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",1,2,1,2,1
+"876","ex6","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",1,2,1,2,1
+"877","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,1,2,2,1
+"878","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,1
+"879","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,1,2,2,1
+"880","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,1
+"881","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,1
+"882","ex6","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",1,1,2,2,1
+"883","ex6","Human infrastructure",8,"H8","Oil Platforms","ASSP",0,NA,NA,NA,1
+"884","ex6","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,1
+"885","ex6","Human infrastructure",8,"H8","Oil Platforms","SCMU",1,2,2,2,1
+"886","ex6","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"887","ex6","Human infrastructure",8,"H8","Oil Platforms","WEGU",0,NA,NA,NA,1
+"888","ex6","Human infrastructure",8,"H8","Oil Platforms","CAAU",1,2,2,2,1
+"889","ex6","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,2,2,2,1
+"890","ex6","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,2,2,2,1
+"891","ex6","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,2,2,1
+"892","ex6","Human infrastructure",9,"H9","Offshore Wind","SNPL",1,2,2,2,1
+"893","ex6","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,2,2,1
+"894","ex6","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,2,2,2,1
+"895","ex6","Human infrastructure",10,"H10","Shipping Traffic","ASSP",1,1,2,1,0
+"896","ex6","Human infrastructure",10,"H10","Shipping Traffic","BRPE",1,1,2,1,0
+"897","ex6","Human infrastructure",10,"H10","Shipping Traffic","SCMU",1,1,2,1,0
+"898","ex6","Human infrastructure",10,"H10","Shipping Traffic","SNPL",1,1,2,1,0
+"899","ex6","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,1,2,1,0
+"900","ex6","Human infrastructure",10,"H10","Shipping Traffic","CAAU",1,1,2,1,0
+"901","ex6","Human infrastructure",11,"H11","Artificial Light","ASSP",1,3,1,2,2
+"902","ex6","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,2
+"903","ex6","Human infrastructure",11,"H11","Artificial Light","SCMU",1,3,1,2,2
+"904","ex6","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,2
+"905","ex6","Human infrastructure",11,"H11","Artificial Light","WEGU",0,NA,NA,NA,2
+"906","ex6","Human infrastructure",11,"H11","Artificial Light","CAAU",1,3,1,2,2
+"907","ex6","Invasive species",12,"H12","Invasive Plants","ASSP",1,2,2,2,1
+"908","ex6","Invasive species",12,"H12","Invasive Plants","BRPE",1,2,2,2,1
+"909","ex6","Invasive species",12,"H12","Invasive Plants","SCMU",1,2,2,2,1
+"910","ex6","Invasive species",12,"H12","Invasive Plants","SNPL",1,2,2,2,1
+"911","ex6","Invasive species",12,"H12","Invasive Plants","WEGU",1,2,2,2,1
+"912","ex6","Invasive species",12,"H12","Invasive Plants","CAAU",1,2,2,2,1
+"913","ex6","Invasive species",13,"H13","Black Rats","ASSP",3,4,0,1,2
+"914","ex6","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"915","ex6","Invasive species",13,"H13","Black Rats","SCMU",3,4,0,1,2
+"916","ex6","Invasive species",13,"H13","Black Rats","SNPL",2,4,0,1,2
+"917","ex6","Invasive species",13,"H13","Black Rats","WEGU",1,4,0,1,2
+"918","ex6","Invasive species",13,"H13","Black Rats","CAAU",3,4,0,1,2
+"919","ex6","Invasive species",14,"H14","New Invasive Species","ASSP",3,4,0,2,2
+"920","ex6","Invasive species",14,"H14","New Invasive Species","BRPE",3,4,0,2,2
+"921","ex6","Invasive species",14,"H14","New Invasive Species","SCMU",3,4,0,2,2
+"922","ex6","Invasive species",14,"H14","New Invasive Species","SNPL",3,4,0,2,2
+"923","ex6","Invasive species",14,"H14","New Invasive Species","WEGU",3,4,0,2,2
+"924","ex6","Invasive species",14,"H14","New Invasive Species","CAAU",3,4,0,2,2
+"925","ex6","Pollution",15,"H15","Oil Spills","ASSP",1,2,1,2,1
+"926","ex6","Pollution",15,"H15","Oil Spills","BRPE",1,2,1,2,1
+"927","ex6","Pollution",15,"H15","Oil Spills","SCMU",1,2,1,2,1
+"928","ex6","Pollution",15,"H15","Oil Spills","SNPL",1,2,1,2,1
+"929","ex6","Pollution",15,"H15","Oil Spills","WEGU",1,2,1,2,1
+"930","ex6","Pollution",15,"H15","Oil Spills","CAAU",1,2,1,2,1
+"931","ex6","Pollution",16,"H16","Residual DDT","ASSP",1,0,3,2,0
+"932","ex6","Pollution",16,"H16","Residual DDT","BRPE",1,0,3,2,0
+"933","ex6","Pollution",16,"H16","Residual DDT","SCMU",1,0,3,2,0
+"934","ex6","Pollution",16,"H16","Residual DDT","SNPL",1,0,3,2,0
+"935","ex6","Pollution",16,"H16","Residual DDT","WEGU",1,0,3,2,0
+"936","ex6","Pollution",16,"H16","Residual DDT","CAAU",1,0,3,2,0
+"937","ex6","Pollution",17,"H17","Contaminants","ASSP",1,1,2,2,0
+"938","ex6","Pollution",17,"H17","Contaminants","BRPE",1,1,2,2,0
+"939","ex6","Pollution",17,"H17","Contaminants","SCMU",1,1,2,2,0
+"940","ex6","Pollution",17,"H17","Contaminants","SNPL",1,1,2,2,0
+"941","ex6","Pollution",17,"H17","Contaminants","WEGU",1,1,2,2,0
+"942","ex6","Pollution",17,"H17","Contaminants","CAAU",1,1,2,2,0
+"943","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",2,1,2,1,1
+"944","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",2,1,2,1,1
+"945","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",2,1,2,1,1
+"946","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,1,2,1,1
+"947","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",2,1,2,1,1
+"948","ex6","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",2,1,2,1,1
+"949","ex6","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",3,0,2,1,1
+"950","ex6","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",3,0,2,1,1
+"951","ex6","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",3,0,2,1,1
+"952","ex6","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",1,0,2,1,1
+"953","ex6","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",3,0,2,1,1
+"954","ex6","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",3,0,2,1,1
+"955","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",2,0,2,1,1
+"956","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",2,0,2,1,1
+"957","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",2,0,2,1,1
+"958","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",2,0,2,1,1
+"959","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",2,0,2,1,1
+"960","ex6","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,2,1,1
+"961","ex6","Projected climate change impacts",21,"H21","Precipitation","ASSP",1,0,2,1,1
+"962","ex6","Projected climate change impacts",21,"H21","Precipitation","BRPE",1,0,2,1,1
+"963","ex6","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,0,2,1,1
+"964","ex6","Projected climate change impacts",21,"H21","Precipitation","SNPL",1,0,2,1,1
+"965","ex6","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,0,2,1,1
+"966","ex6","Projected climate change impacts",21,"H21","Precipitation","CAAU",1,0,2,1,1
+"967","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",1,1,2,1,1
+"968","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",1,1,2,1,1
+"969","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,1,2,1,1
+"970","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,1,2,1,1
+"971","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",1,1,2,1,1
+"972","ex6","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,1,2,1,1
+"973","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",2,0,2,1,1
+"974","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",2,0,2,1,1
+"975","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,2,1,1
+"976","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",1,0,2,1,1
+"977","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",2,0,2,1,1
+"978","ex6","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",2,0,2,1,1
+"979","ex6","Projected climate change impacts",24,"H24","Storm Events","ASSP",1,0,2,1,0
+"980","ex6","Projected climate change impacts",24,"H24","Storm Events","BRPE",1,0,2,1,0
+"981","ex6","Projected climate change impacts",24,"H24","Storm Events","SCMU",1,0,2,1,0
+"982","ex6","Projected climate change impacts",24,"H24","Storm Events","SNPL",1,0,2,1,0
+"983","ex6","Projected climate change impacts",24,"H24","Storm Events","WEGU",1,0,2,1,0
+"984","ex6","Projected climate change impacts",24,"H24","Storm Events","CAAU",1,0,2,1,0
+"985","ex6","Projected climate change impacts",25,"H25","Wind","ASSP",2,0,2,1,1
+"986","ex6","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,2,1,1
+"987","ex6","Projected climate change impacts",25,"H25","Wind","SCMU",2,0,2,1,1
+"988","ex6","Projected climate change impacts",25,"H25","Wind","SNPL",1,0,2,1,1
+"989","ex6","Projected climate change impacts",25,"H25","Wind","WEGU",2,0,2,1,1
+"990","ex6","Projected climate change impacts",25,"H25","Wind","CAAU",2,0,2,1,1
+"991","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,1,1,2,1
+"992","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,1,1,2,1
+"993","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,1,1,2,1
+"994","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",1,1,1,2,1
+"995","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,1,1,2,1
+"996","ex6","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,1,1,2,1
+"997","ex6","Toxins/diseases/parasites",27,"H27","Disease","ASSP",3,1,1,2,1
+"998","ex6","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,1,1,2,1
+"999","ex6","Toxins/diseases/parasites",27,"H27","Disease","SCMU",3,1,1,2,1
+"1000","ex6","Toxins/diseases/parasites",27,"H27","Disease","SNPL",3,1,1,2,1
+"1001","ex6","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,1,1,2,1
+"1002","ex6","Toxins/diseases/parasites",27,"H27","Disease","CAAU",3,1,1,2,1
+"1003","ex6","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,1,2,2,0
+"1004","ex6","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,1,2,2,0
+"1005","ex6","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,1,2,2,0
+"1006","ex6","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,1,2,2,0
+"1007","ex6","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,1,2,2,0
+"1008","ex6","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,1,2,2,0
+"1009","ex7","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1010","ex7","Disturbance",1,"H1","Overflights","BRPE",1,3,0,4,2
+"1011","ex7","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1012","ex7","Disturbance",1,"H1","Overflights","SNPL",0,NA,NA,NA,0
+"1013","ex7","Disturbance",1,"H1","Overflights","WEGU",1,3,1,4,2
+"1014","ex7","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1015","ex7","Disturbance",2,"H2","Recreation","ASSP",3,3,0,3,2
+"1016","ex7","Disturbance",2,"H2","Recreation","BRPE",3,3,0,3,2
+"1017","ex7","Disturbance",2,"H2","Recreation","SCMU",2,3,0,3,2
+"1018","ex7","Disturbance",2,"H2","Recreation","SNPL",3,3,2,3,1
+"1019","ex7","Disturbance",2,"H2","Recreation","WEGU",2,3,0,3,2
+"1020","ex7","Disturbance",2,"H2","Recreation","CAAU",2,3,0,3,2
+"1021","ex7","Fisheries",3,"H3","Fishery Equipment","ASSP",2,1,1,3,2
+"1022","ex7","Fisheries",3,"H3","Fishery Equipment","BRPE",4,1,0,3,2
+"1023","ex7","Fisheries",3,"H3","Fishery Equipment","SCMU",3,1,1,3,1
+"1024","ex7","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,0
+"1025","ex7","Fisheries",3,"H3","Fishery Equipment","WEGU",3,1,1,3,1
+"1026","ex7","Fisheries",3,"H3","Fishery Equipment","CAAU",2,1,1,3,1
+"1027","ex7","Fisheries",4,"H4","Overfishing","ASSP",2,3,2,3,1
+"1028","ex7","Fisheries",4,"H4","Overfishing","BRPE",4,3,0,3,2
+"1029","ex7","Fisheries",4,"H4","Overfishing","SCMU",2,3,2,3,1
+"1030","ex7","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,0
+"1031","ex7","Fisheries",4,"H4","Overfishing","WEGU",1,3,1,3,2
+"1032","ex7","Fisheries",4,"H4","Overfishing","CAAU",2,3,1,3,1
+"1033","ex7","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,2,0,4,2
+"1034","ex7","Harmful native species interactions",5,"H5","Native Predators","BRPE",2,2,0,4,2
+"1035","ex7","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,2,0,4,2
+"1036","ex7","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,2,2,4,2
+"1037","ex7","Harmful native species interactions",5,"H5","Native Predators","WEGU",2,2,0,4,2
+"1038","ex7","Harmful native species interactions",5,"H5","Native Predators","CAAU",2,2,0,4,2
+"1039","ex7","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1040","ex7","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"1041","ex7","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,1
+"1042","ex7","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",4,1,2,4,2
+"1043","ex7","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"1044","ex7","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"1045","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,1,2,2,1
+"1046","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,1
+"1047","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,1,2,2,1
+"1048","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,1
+"1049","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,1
+"1050","ex7","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",0,NA,NA,NA,1
+"1051","ex7","Human infrastructure",8,"H8","Oil Platforms","ASSP",2,0,2,3,2
+"1052","ex7","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"1053","ex7","Human infrastructure",8,"H8","Oil Platforms","SCMU",2,0,2,3,2
+"1054","ex7","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"1055","ex7","Human infrastructure",8,"H8","Oil Platforms","WEGU",2,0,2,3,1
+"1056","ex7","Human infrastructure",8,"H8","Oil Platforms","CAAU",1,0,2,3,1
+"1057","ex7","Human infrastructure",9,"H9","Offshore Wind","ASSP",2,2,3,4,1
+"1058","ex7","Human infrastructure",9,"H9","Offshore Wind","BRPE",2,2,3,4,2
+"1059","ex7","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,3,4,1
+"1060","ex7","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,0
+"1061","ex7","Human infrastructure",9,"H9","Offshore Wind","WEGU",2,2,3,4,1
+"1062","ex7","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,2,3,4,1
+"1063","ex7","Human infrastructure",10,"H10","Shipping Traffic","ASSP",1,2,3,3,1
+"1064","ex7","Human infrastructure",10,"H10","Shipping Traffic","BRPE",1,2,3,3,1
+"1065","ex7","Human infrastructure",10,"H10","Shipping Traffic","SCMU",1,2,3,3,1
+"1066","ex7","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,1
+"1067","ex7","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,2,3,3,1
+"1068","ex7","Human infrastructure",10,"H10","Shipping Traffic","CAAU",1,2,3,3,1
+"1069","ex7","Human infrastructure",11,"H11","Artificial Light","ASSP",3,3,0,3,2
+"1070","ex7","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,2
+"1071","ex7","Human infrastructure",11,"H11","Artificial Light","SCMU",3,3,0,3,2
+"1072","ex7","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,2
+"1073","ex7","Human infrastructure",11,"H11","Artificial Light","WEGU",1,3,1,3,1
+"1074","ex7","Human infrastructure",11,"H11","Artificial Light","CAAU",3,3,1,3,1
+"1075","ex7","Invasive species",12,"H12","Invasive Plants","ASSP",0,NA,NA,NA,2
+"1076","ex7","Invasive species",12,"H12","Invasive Plants","BRPE",2,2,0,3,2
+"1077","ex7","Invasive species",12,"H12","Invasive Plants","SCMU",2,2,0,3,2
+"1078","ex7","Invasive species",12,"H12","Invasive Plants","SNPL",0,NA,NA,NA,1
+"1079","ex7","Invasive species",12,"H12","Invasive Plants","WEGU",2,3,0,3,2
+"1080","ex7","Invasive species",12,"H12","Invasive Plants","CAAU",2,2,0,3,2
+"1081","ex7","Invasive species",13,"H13","Black Rats","ASSP",3,3,1,4,1
+"1082","ex7","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"1083","ex7","Invasive species",13,"H13","Black Rats","SCMU",3,3,1,4,1
+"1084","ex7","Invasive species",13,"H13","Black Rats","SNPL",3,3,0,4,2
+"1085","ex7","Invasive species",13,"H13","Black Rats","WEGU",3,3,0,4,2
+"1086","ex7","Invasive species",13,"H13","Black Rats","CAAU",3,3,0,4,2
+"1087","ex7","Invasive species",14,"H14","New Invasive Species","ASSP",4,4,0,4,2
+"1088","ex7","Invasive species",14,"H14","New Invasive Species","BRPE",4,4,0,4,2
+"1089","ex7","Invasive species",14,"H14","New Invasive Species","SCMU",4,4,0,4,2
+"1090","ex7","Invasive species",14,"H14","New Invasive Species","SNPL",4,4,0,4,2
+"1091","ex7","Invasive species",14,"H14","New Invasive Species","WEGU",4,4,0,4,2
+"1092","ex7","Invasive species",14,"H14","New Invasive Species","CAAU",4,4,0,4,2
+"1093","ex7","Pollution",15,"H15","Oil Spills","ASSP",3,1,0,3,1
+"1094","ex7","Pollution",15,"H15","Oil Spills","BRPE",3,1,0,3,2
+"1095","ex7","Pollution",15,"H15","Oil Spills","SCMU",3,1,0,3,2
+"1096","ex7","Pollution",15,"H15","Oil Spills","SNPL",3,1,0,3,1
+"1097","ex7","Pollution",15,"H15","Oil Spills","WEGU",3,1,0,3,2
+"1098","ex7","Pollution",15,"H15","Oil Spills","CAAU",3,1,0,3,1
+"1099","ex7","Pollution",16,"H16","Residual DDT","ASSP",1,0,1,4,2
+"1100","ex7","Pollution",16,"H16","Residual DDT","BRPE",3,0,0,4,2
+"1101","ex7","Pollution",16,"H16","Residual DDT","SCMU",1,0,1,4,2
+"1102","ex7","Pollution",16,"H16","Residual DDT","SNPL",1,0,1,4,1
+"1103","ex7","Pollution",16,"H16","Residual DDT","WEGU",1,0,1,4,1
+"1104","ex7","Pollution",16,"H16","Residual DDT","CAAU",1,0,1,4,2
+"1105","ex7","Pollution",17,"H17","Contaminants","ASSP",1,1,2,3,1
+"1106","ex7","Pollution",17,"H17","Contaminants","BRPE",1,1,2,3,1
+"1107","ex7","Pollution",17,"H17","Contaminants","SCMU",1,1,2,3,1
+"1108","ex7","Pollution",17,"H17","Contaminants","SNPL",1,1,2,3,1
+"1109","ex7","Pollution",17,"H17","Contaminants","WEGU",1,1,2,3,1
+"1110","ex7","Pollution",17,"H17","Contaminants","CAAU",1,1,2,3,1
+"1111","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",4,0,0,3,2
+"1112","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",2,0,1,3,2
+"1113","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",3,0,0,3,2
+"1114","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",3,0,1,3,2
+"1115","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",1,0,1,3,2
+"1116","ex7","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",3,0,0,3,2
+"1117","ex7","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",4,0,0,4,2
+"1118","ex7","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",4,0,0,4,2
+"1119","ex7","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",4,0,0,4,2
+"1120","ex7","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",3,0,0,4,1
+"1121","ex7","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",4,0,0,4,2
+"1122","ex7","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",4,0,0,4,2
+"1123","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",4,0,0,4,2
+"1124","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",4,0,0,4,2
+"1125","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",4,0,0,4,2
+"1126","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",3,0,0,4,1
+"1127","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",4,0,0,4,1
+"1128","ex7","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",4,0,0,4,2
+"1129","ex7","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"1130","ex7","Projected climate change impacts",21,"H21","Precipitation","BRPE",3,0,0,3,1
+"1131","ex7","Projected climate change impacts",21,"H21","Precipitation","SCMU",3,0,0,3,1
+"1132","ex7","Projected climate change impacts",21,"H21","Precipitation","SNPL",1,0,2,3,1
+"1133","ex7","Projected climate change impacts",21,"H21","Precipitation","WEGU",3,0,0,3,1
+"1134","ex7","Projected climate change impacts",21,"H21","Precipitation","CAAU",3,0,0,3,1
+"1135","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",2,0,2,4,1
+"1136","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",3,0,2,4,2
+"1137","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",2,0,2,4,1
+"1138","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",3,0,2,4,1
+"1139","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",3,0,2,4,2
+"1140","ex7","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",2,0,2,4,2
+"1141","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",3,0,0,4,1
+"1142","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",3,0,0,4,1
+"1143","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",3,0,0,4,1
+"1144","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",3,0,0,4,1
+"1145","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",3,0,0,4,1
+"1146","ex7","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",3,0,0,4,1
+"1147","ex7","Projected climate change impacts",24,"H24","Storm Events","ASSP",4,0,0,4,2
+"1148","ex7","Projected climate change impacts",24,"H24","Storm Events","BRPE",3,0,0,4,2
+"1149","ex7","Projected climate change impacts",24,"H24","Storm Events","SCMU",4,0,0,4,2
+"1150","ex7","Projected climate change impacts",24,"H24","Storm Events","SNPL",3,0,2,4,2
+"1151","ex7","Projected climate change impacts",24,"H24","Storm Events","WEGU",2,0,0,4,2
+"1152","ex7","Projected climate change impacts",24,"H24","Storm Events","CAAU",4,0,0,4,2
+"1153","ex7","Projected climate change impacts",25,"H25","Wind","ASSP",3,0,2,3,1
+"1154","ex7","Projected climate change impacts",25,"H25","Wind","BRPE",3,0,2,3,1
+"1155","ex7","Projected climate change impacts",25,"H25","Wind","SCMU",3,0,2,3,1
+"1156","ex7","Projected climate change impacts",25,"H25","Wind","SNPL",3,0,2,3,1
+"1157","ex7","Projected climate change impacts",25,"H25","Wind","WEGU",3,0,2,3,1
+"1158","ex7","Projected climate change impacts",25,"H25","Wind","CAAU",3,0,2,3,1
+"1159","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",2,2,3,3,1
+"1160","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",2,2,3,3,1
+"1161","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",2,2,3,3,1
+"1162","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",1,2,3,3,1
+"1163","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",2,2,3,3,1
+"1164","ex7","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",2,2,3,3,1
+"1165","ex7","Toxins/diseases/parasites",27,"H27","Disease","ASSP",3,2,0,4,2
+"1166","ex7","Toxins/diseases/parasites",27,"H27","Disease","BRPE",4,2,0,4,2
+"1167","ex7","Toxins/diseases/parasites",27,"H27","Disease","SCMU",3,2,0,4,2
+"1168","ex7","Toxins/diseases/parasites",27,"H27","Disease","SNPL",3,2,0,4,2
+"1169","ex7","Toxins/diseases/parasites",27,"H27","Disease","WEGU",4,2,0,4,2
+"1170","ex7","Toxins/diseases/parasites",27,"H27","Disease","CAAU",3,2,0,4,2
+"1171","ex7","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",2,0,3,3,1
+"1172","ex7","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",2,0,3,3,1
+"1173","ex7","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",2,0,3,3,1
+"1174","ex7","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",2,0,3,3,1
+"1175","ex7","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",2,0,3,3,1
+"1176","ex7","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",2,0,3,3,1
+"1177","ex8","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1178","ex8","Disturbance",1,"H1","Overflights","BRPE",1,3,0,4,2
+"1179","ex8","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1180","ex8","Disturbance",1,"H1","Overflights","SNPL",1,2,1,4,2
+"1181","ex8","Disturbance",1,"H1","Overflights","WEGU",1,3,0,4,2
+"1182","ex8","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1183","ex8","Disturbance",2,"H2","Recreation","ASSP",1,3,2,2,2
+"1184","ex8","Disturbance",2,"H2","Recreation","BRPE",2,3,0,3,2
+"1185","ex8","Disturbance",2,"H2","Recreation","SCMU",1,3,2,2,2
+"1186","ex8","Disturbance",2,"H2","Recreation","SNPL",2,3,0,3,2
+"1187","ex8","Disturbance",2,"H2","Recreation","WEGU",2,3,0,3,2
+"1188","ex8","Disturbance",2,"H2","Recreation","CAAU",1,3,2,2,2
+"1189","ex8","Fisheries",3,"H3","Fishery Equipment","ASSP",1,3,3,3,1
+"1190","ex8","Fisheries",3,"H3","Fishery Equipment","BRPE",1,3,1,3,1
+"1191","ex8","Fisheries",3,"H3","Fishery Equipment","SCMU",1,3,3,3,1
+"1192","ex8","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,1
+"1193","ex8","Fisheries",3,"H3","Fishery Equipment","WEGU",1,3,1,3,1
+"1194","ex8","Fisheries",3,"H3","Fishery Equipment","CAAU",1,3,3,3,1
+"1195","ex8","Fisheries",4,"H4","Overfishing","ASSP",3,2,3,1,1
+"1196","ex8","Fisheries",4,"H4","Overfishing","BRPE",3,2,3,1,1
+"1197","ex8","Fisheries",4,"H4","Overfishing","SCMU",3,2,3,1,1
+"1198","ex8","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,1
+"1199","ex8","Fisheries",4,"H4","Overfishing","WEGU",2,2,3,1,1
+"1200","ex8","Fisheries",4,"H4","Overfishing","CAAU",3,2,3,1,1
+"1201","ex8","Harmful native species interactions",5,"H5","Native Predators","ASSP",2,4,2,4,2
+"1202","ex8","Harmful native species interactions",5,"H5","Native Predators","BRPE",0,NA,NA,NA,2
+"1203","ex8","Harmful native species interactions",5,"H5","Native Predators","SCMU",2,4,2,4,2
+"1204","ex8","Harmful native species interactions",5,"H5","Native Predators","SNPL",2,2,2,4,2
+"1205","ex8","Harmful native species interactions",5,"H5","Native Predators","WEGU",0,NA,NA,NA,2
+"1206","ex8","Harmful native species interactions",5,"H5","Native Predators","CAAU",2,4,2,4,2
+"1207","ex8","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1208","ex8","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",1,2,2,3,2
+"1209","ex8","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"1210","ex8","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",1,1,1,3,2
+"1211","ex8","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",1,2,2,3,2
+"1212","ex8","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"1213","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",0,NA,NA,NA,2
+"1214","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,2
+"1215","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",0,NA,NA,NA,2
+"1216","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,2
+"1217","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,2
+"1218","ex8","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",0,NA,NA,NA,2
+"1219","ex8","Human infrastructure",8,"H8","Oil Platforms","ASSP",0,NA,NA,NA,1
+"1220","ex8","Human infrastructure",8,"H8","Oil Platforms","BRPE",1,3,3,2,1
+"1221","ex8","Human infrastructure",8,"H8","Oil Platforms","SCMU",0,NA,NA,NA,1
+"1222","ex8","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"1223","ex8","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,3,3,2,1
+"1224","ex8","Human infrastructure",8,"H8","Oil Platforms","CAAU",0,NA,NA,NA,1
+"1225","ex8","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,2,3,2,1
+"1226","ex8","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,2,3,2,1
+"1227","ex8","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,3,2,1
+"1228","ex8","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,1
+"1229","ex8","Human infrastructure",9,"H9","Offshore Wind","WEGU",0,NA,NA,NA,1
+"1230","ex8","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,2,3,2,1
+"1231","ex8","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,0
+"1232","ex8","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,0
+"1233","ex8","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,0
+"1234","ex8","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,0
+"1235","ex8","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,0
+"1236","ex8","Human infrastructure",10,"H10","Shipping Traffic","CAAU",0,NA,NA,NA,0
+"1237","ex8","Human infrastructure",11,"H11","Artificial Light","ASSP",2,3,3,2,2
+"1238","ex8","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,2
+"1239","ex8","Human infrastructure",11,"H11","Artificial Light","SCMU",2,3,3,2,2
+"1240","ex8","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,2
+"1241","ex8","Human infrastructure",11,"H11","Artificial Light","WEGU",1,3,3,2,2
+"1242","ex8","Human infrastructure",11,"H11","Artificial Light","CAAU",1,3,3,2,2
+"1243","ex8","Invasive species",12,"H12","Invasive Plants","ASSP",3,3,0,3,2
+"1244","ex8","Invasive species",12,"H12","Invasive Plants","BRPE",2,3,0,3,2
+"1245","ex8","Invasive species",12,"H12","Invasive Plants","SCMU",3,3,0,3,2
+"1246","ex8","Invasive species",12,"H12","Invasive Plants","SNPL",2,3,0,3,2
+"1247","ex8","Invasive species",12,"H12","Invasive Plants","WEGU",2,3,0,3,2
+"1248","ex8","Invasive species",12,"H12","Invasive Plants","CAAU",3,3,0,3,2
+"1249","ex8","Invasive species",13,"H13","Black Rats","ASSP",3,4,0,4,2
+"1250","ex8","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"1251","ex8","Invasive species",13,"H13","Black Rats","SCMU",3,4,0,4,2
+"1252","ex8","Invasive species",13,"H13","Black Rats","SNPL",3,4,0,4,2
+"1253","ex8","Invasive species",13,"H13","Black Rats","WEGU",1,4,1,4,2
+"1254","ex8","Invasive species",13,"H13","Black Rats","CAAU",3,4,0,4,2
+"1255","ex8","Invasive species",14,"H14","New Invasive Species","ASSP",3,4,0,4,2
+"1256","ex8","Invasive species",14,"H14","New Invasive Species","BRPE",3,4,0,4,2
+"1257","ex8","Invasive species",14,"H14","New Invasive Species","SCMU",3,4,0,4,2
+"1258","ex8","Invasive species",14,"H14","New Invasive Species","SNPL",3,4,0,4,2
+"1259","ex8","Invasive species",14,"H14","New Invasive Species","WEGU",3,4,0,4,2
+"1260","ex8","Invasive species",14,"H14","New Invasive Species","CAAU",3,4,0,4,2
+"1261","ex8","Pollution",15,"H15","Oil Spills","ASSP",1,1,1,0,2
+"1262","ex8","Pollution",15,"H15","Oil Spills","BRPE",2,1,1,0,2
+"1263","ex8","Pollution",15,"H15","Oil Spills","SCMU",2,1,1,0,2
+"1264","ex8","Pollution",15,"H15","Oil Spills","SNPL",0,NA,NA,NA,2
+"1265","ex8","Pollution",15,"H15","Oil Spills","WEGU",2,1,1,0,2
+"1266","ex8","Pollution",15,"H15","Oil Spills","CAAU",1,1,1,0,2
+"1267","ex8","Pollution",16,"H16","Residual DDT","ASSP",1,0,2,1,2
+"1268","ex8","Pollution",16,"H16","Residual DDT","BRPE",1,0,2,1,2
+"1269","ex8","Pollution",16,"H16","Residual DDT","SCMU",1,0,2,1,2
+"1270","ex8","Pollution",16,"H16","Residual DDT","SNPL",1,0,2,1,2
+"1271","ex8","Pollution",16,"H16","Residual DDT","WEGU",0,NA,NA,NA,2
+"1272","ex8","Pollution",16,"H16","Residual DDT","CAAU",1,0,2,1,2
+"1273","ex8","Pollution",17,"H17","Contaminants","ASSP",1,0,3,2,1
+"1274","ex8","Pollution",17,"H17","Contaminants","BRPE",1,0,3,2,1
+"1275","ex8","Pollution",17,"H17","Contaminants","SCMU",1,0,3,2,1
+"1276","ex8","Pollution",17,"H17","Contaminants","SNPL",1,0,3,2,1
+"1277","ex8","Pollution",17,"H17","Contaminants","WEGU",1,0,3,2,1
+"1278","ex8","Pollution",17,"H17","Contaminants","CAAU",1,0,3,2,1
+"1279","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",1,2,2,3,2
+"1280","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"1281","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",1,2,2,3,2
+"1282","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",1,1,2,3,2
+"1283","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"1284","ex8","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",1,2,1,3,2
+"1285","ex8","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",2,0,2,1,2
+"1286","ex8","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,2,1,2
+"1287","ex8","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,2,1,2
+"1288","ex8","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",0,NA,NA,NA,2
+"1289","ex8","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",1,0,2,1,2
+"1290","ex8","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",2,0,2,1,2
+"1291","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",2,0,1,2,2
+"1292","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",2,0,1,2,2
+"1293","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",2,0,1,2,2
+"1294","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",1,0,1,2,2
+"1295","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,1,2,2
+"1296","ex8","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,1,2,2
+"1297","ex8","Projected climate change impacts",21,"H21","Precipitation","ASSP",1,2,2,3,1
+"1298","ex8","Projected climate change impacts",21,"H21","Precipitation","BRPE",2,2,3,3,1
+"1299","ex8","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,2,2,3,1
+"1300","ex8","Projected climate change impacts",21,"H21","Precipitation","SNPL",1,2,3,3,1
+"1301","ex8","Projected climate change impacts",21,"H21","Precipitation","WEGU",2,2,3,3,1
+"1302","ex8","Projected climate change impacts",21,"H21","Precipitation","CAAU",1,2,2,3,1
+"1303","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,1
+"1304","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",2,2,2,3,1
+"1305","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",0,NA,NA,NA,1
+"1306","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,2,2,3,1
+"1307","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,2,2,3,1
+"1308","ex8","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,2,2,3,1
+"1309","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",2,0,1,3,2
+"1310","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",2,0,1,3,2
+"1311","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,1,3,2
+"1312","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",0,NA,NA,NA,2
+"1313","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,1,3,2
+"1314","ex8","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",2,0,1,3,2
+"1315","ex8","Projected climate change impacts",24,"H24","Storm Events","ASSP",1,2,2,2,2
+"1316","ex8","Projected climate change impacts",24,"H24","Storm Events","BRPE",2,1,1,3,2
+"1317","ex8","Projected climate change impacts",24,"H24","Storm Events","SCMU",1,2,2,2,2
+"1318","ex8","Projected climate change impacts",24,"H24","Storm Events","SNPL",3,1,1,2,2
+"1319","ex8","Projected climate change impacts",24,"H24","Storm Events","WEGU",2,1,2,3,2
+"1320","ex8","Projected climate change impacts",24,"H24","Storm Events","CAAU",1,2,2,2,2
+"1321","ex8","Projected climate change impacts",25,"H25","Wind","ASSP",2,0,3,2,1
+"1322","ex8","Projected climate change impacts",25,"H25","Wind","BRPE",1,0,3,2,1
+"1323","ex8","Projected climate change impacts",25,"H25","Wind","SCMU",1,0,3,2,1
+"1324","ex8","Projected climate change impacts",25,"H25","Wind","SNPL",0,NA,NA,NA,1
+"1325","ex8","Projected climate change impacts",25,"H25","Wind","WEGU",1,0,3,2,1
+"1326","ex8","Projected climate change impacts",25,"H25","Wind","CAAU",1,0,3,2,1
+"1327","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,2,1,1
+"1328","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,0,2,1,1
+"1329","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,2,1,1
+"1330","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",0,NA,NA,NA,1
+"1331","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,2,1,1
+"1332","ex8","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,2,1,1
+"1333","ex8","Toxins/diseases/parasites",27,"H27","Disease","ASSP",1,1,2,1,1
+"1334","ex8","Toxins/diseases/parasites",27,"H27","Disease","BRPE",1,1,2,1,1
+"1335","ex8","Toxins/diseases/parasites",27,"H27","Disease","SCMU",1,1,2,1,1
+"1336","ex8","Toxins/diseases/parasites",27,"H27","Disease","SNPL",1,1,2,1,1
+"1337","ex8","Toxins/diseases/parasites",27,"H27","Disease","WEGU",1,1,2,1,1
+"1338","ex8","Toxins/diseases/parasites",27,"H27","Disease","CAAU",1,1,2,1,1
+"1339","ex8","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,1,2,1,1
+"1340","ex8","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,1,2,1,1
+"1341","ex8","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,1,2,1,1
+"1342","ex8","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",0,NA,NA,NA,1
+"1343","ex8","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,1,2,1,1
+"1344","ex8","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,1,2,1,1
+"1345","ex9","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1346","ex9","Disturbance",1,"H1","Overflights","BRPE",1,3,1,4,2
+"1347","ex9","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1348","ex9","Disturbance",1,"H1","Overflights","SNPL",0,NA,NA,NA,1
+"1349","ex9","Disturbance",1,"H1","Overflights","WEGU",1,3,1,4,2
+"1350","ex9","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1351","ex9","Disturbance",2,"H2","Recreation","ASSP",1,1,2,2,1
+"1352","ex9","Disturbance",2,"H2","Recreation","BRPE",1,2,1,3,2
+"1353","ex9","Disturbance",2,"H2","Recreation","SCMU",1,1,2,2,2
+"1354","ex9","Disturbance",2,"H2","Recreation","SNPL",2,2,3,3,0
+"1355","ex9","Disturbance",2,"H2","Recreation","WEGU",2,3,3,4,2
+"1356","ex9","Disturbance",2,"H2","Recreation","CAAU",1,1,1,2,1
+"1357","ex9","Fisheries",3,"H3","Fishery Equipment","ASSP",1,1,4,0,0
+"1358","ex9","Fisheries",3,"H3","Fishery Equipment","BRPE",1,1,0,2,1
+"1359","ex9","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,3,0,0
+"1360","ex9","Fisheries",3,"H3","Fishery Equipment","SNPL",1,1,4,0,0
+"1361","ex9","Fisheries",3,"H3","Fishery Equipment","WEGU",1,1,0,1,1
+"1362","ex9","Fisheries",3,"H3","Fishery Equipment","CAAU",2,1,3,0,0
+"1363","ex9","Fisheries",4,"H4","Overfishing","ASSP",0,NA,NA,NA,0
+"1364","ex9","Fisheries",4,"H4","Overfishing","BRPE",2,1,1,2,0
+"1365","ex9","Fisheries",4,"H4","Overfishing","SCMU",1,1,2,2,0
+"1366","ex9","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,0
+"1367","ex9","Fisheries",4,"H4","Overfishing","WEGU",1,1,2,2,0
+"1368","ex9","Fisheries",4,"H4","Overfishing","CAAU",0,NA,NA,NA,0
+"1369","ex9","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,3,0,3,2
+"1370","ex9","Harmful native species interactions",5,"H5","Native Predators","BRPE",1,3,3,2,2
+"1371","ex9","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,3,0,3,2
+"1372","ex9","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,1,1,3,1
+"1373","ex9","Harmful native species interactions",5,"H5","Native Predators","WEGU",1,3,2,3,2
+"1374","ex9","Harmful native species interactions",5,"H5","Native Predators","CAAU",2,3,1,3,2
+"1375","ex9","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1376","ex9","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"1377","ex9","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"1378","ex9","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",2,2,2,2,1
+"1379","ex9","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"1380","ex9","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"1381","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,0,4,2,1
+"1382","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",1,0,4,2,1
+"1383","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,0,4,2,1
+"1384","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",1,0,4,2,0
+"1385","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,1
+"1386","ex9","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",1,0,4,2,1
+"1387","ex9","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,1,2,2,1
+"1388","ex9","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,1
+"1389","ex9","Human infrastructure",8,"H8","Oil Platforms","SCMU",1,1,2,2,1
+"1390","ex9","Human infrastructure",8,"H8","Oil Platforms","SNPL",1,0,3,2,0
+"1391","ex9","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,0,2,2,1
+"1392","ex9","Human infrastructure",8,"H8","Oil Platforms","CAAU",1,0,2,2,1
+"1393","ex9","Human infrastructure",9,"H9","Offshore Wind","ASSP",3,1,1,2,1
+"1394","ex9","Human infrastructure",9,"H9","Offshore Wind","BRPE",3,0,1,3,1
+"1395","ex9","Human infrastructure",9,"H9","Offshore Wind","SCMU",3,1,3,2,1
+"1396","ex9","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,1
+"1397","ex9","Human infrastructure",9,"H9","Offshore Wind","WEGU",2,0,1,2,1
+"1398","ex9","Human infrastructure",9,"H9","Offshore Wind","CAAU",2,0,3,2,1
+"1399","ex9","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,0
+"1400","ex9","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,0
+"1401","ex9","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,0
+"1402","ex9","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,0
+"1403","ex9","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,0
+"1404","ex9","Human infrastructure",10,"H10","Shipping Traffic","CAAU",0,NA,NA,NA,0
+"1405","ex9","Human infrastructure",11,"H11","Artificial Light","ASSP",1,1,1,2,2
+"1406","ex9","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,1
+"1407","ex9","Human infrastructure",11,"H11","Artificial Light","SCMU",1,1,1,2,2
+"1408","ex9","Human infrastructure",11,"H11","Artificial Light","SNPL",1,1,3,2,1
+"1409","ex9","Human infrastructure",11,"H11","Artificial Light","WEGU",1,1,3,2,1
+"1410","ex9","Human infrastructure",11,"H11","Artificial Light","CAAU",1,1,1,2,2
+"1411","ex9","Invasive species",12,"H12","Invasive Plants","ASSP",0,NA,NA,NA,2
+"1412","ex9","Invasive species",12,"H12","Invasive Plants","BRPE",1,1,2,3,1
+"1413","ex9","Invasive species",12,"H12","Invasive Plants","SCMU",1,1,0,3,2
+"1414","ex9","Invasive species",12,"H12","Invasive Plants","SNPL",0,NA,NA,NA,0
+"1415","ex9","Invasive species",12,"H12","Invasive Plants","WEGU",0,NA,NA,NA,2
+"1416","ex9","Invasive species",12,"H12","Invasive Plants","CAAU",1,1,1,3,2
+"1417","ex9","Invasive species",13,"H13","Black Rats","ASSP",2,4,3,2,1
+"1418","ex9","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,1
+"1419","ex9","Invasive species",13,"H13","Black Rats","SCMU",1,4,3,2,1
+"1420","ex9","Invasive species",13,"H13","Black Rats","SNPL",1,4,3,3,1
+"1421","ex9","Invasive species",13,"H13","Black Rats","WEGU",1,4,3,3,1
+"1422","ex9","Invasive species",13,"H13","Black Rats","CAAU",1,4,3,3,1
+"1423","ex9","Invasive species",14,"H14","New Invasive Species","ASSP",3,3,0,1,2
+"1424","ex9","Invasive species",14,"H14","New Invasive Species","BRPE",2,3,0,1,2
+"1425","ex9","Invasive species",14,"H14","New Invasive Species","SCMU",3,3,0,1,2
+"1426","ex9","Invasive species",14,"H14","New Invasive Species","SNPL",2,3,0,1,2
+"1427","ex9","Invasive species",14,"H14","New Invasive Species","WEGU",2,3,0,1,2
+"1428","ex9","Invasive species",14,"H14","New Invasive Species","CAAU",3,3,0,1,2
+"1429","ex9","Pollution",15,"H15","Oil Spills","ASSP",1,0,1,1,1
+"1430","ex9","Pollution",15,"H15","Oil Spills","BRPE",2,0,1,3,1
+"1431","ex9","Pollution",15,"H15","Oil Spills","SCMU",2,0,1,1,1
+"1432","ex9","Pollution",15,"H15","Oil Spills","SNPL",1,0,1,0,0
+"1433","ex9","Pollution",15,"H15","Oil Spills","WEGU",2,0,1,3,1
+"1434","ex9","Pollution",15,"H15","Oil Spills","CAAU",2,0,1,1,1
+"1435","ex9","Pollution",16,"H16","Residual DDT","ASSP",1,0,3,4,1
+"1436","ex9","Pollution",16,"H16","Residual DDT","BRPE",1,0,2,4,2
+"1437","ex9","Pollution",16,"H16","Residual DDT","SCMU",1,0,3,4,1
+"1438","ex9","Pollution",16,"H16","Residual DDT","SNPL",1,0,4,4,0
+"1439","ex9","Pollution",16,"H16","Residual DDT","WEGU",1,0,3,4,1
+"1440","ex9","Pollution",16,"H16","Residual DDT","CAAU",1,0,3,4,1
+"1441","ex9","Pollution",17,"H17","Contaminants","ASSP",1,0,3,3,0
+"1442","ex9","Pollution",17,"H17","Contaminants","BRPE",1,0,3,3,0
+"1443","ex9","Pollution",17,"H17","Contaminants","SCMU",1,0,3,3,0
+"1444","ex9","Pollution",17,"H17","Contaminants","SNPL",1,0,3,3,0
+"1445","ex9","Pollution",17,"H17","Contaminants","WEGU",1,0,2,4,1
+"1446","ex9","Pollution",17,"H17","Contaminants","CAAU",1,0,3,3,0
+"1447","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",1,1,3,2,2
+"1448","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"1449","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",1,1,3,2,2
+"1450","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,1,1,3,1
+"1451","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"1452","ex9","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",0,NA,NA,NA,2
+"1453","ex9","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",2,0,1,2,1
+"1454","ex9","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,1,2,1
+"1455","ex9","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,1,2,1
+"1456","ex9","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",2,0,1,2,1
+"1457","ex9","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",1,0,1,2,1
+"1458","ex9","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",2,0,1,2,1
+"1459","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",1,0,3,2,1
+"1460","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",1,0,3,2,1
+"1461","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",1,0,3,2,1
+"1462","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",2,0,2,2,1
+"1463","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,2,2,1
+"1464","ex9","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,3,2,1
+"1465","ex9","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,2
+"1466","ex9","Projected climate change impacts",21,"H21","Precipitation","BRPE",1,1,2,3,2
+"1467","ex9","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,1,1,3,2
+"1468","ex9","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,0
+"1469","ex9","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,1,1,3,2
+"1470","ex9","Projected climate change impacts",21,"H21","Precipitation","CAAU",0,NA,NA,NA,2
+"1471","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,0
+"1472","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",1,1,2,3,1
+"1473","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",0,NA,NA,NA,0
+"1474","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",2,0,2,2,0
+"1475","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",1,1,2,3,1
+"1476","ex9","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",0,NA,NA,NA,0
+"1477","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",1,0,2,3,0
+"1478","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",1,0,1,3,1
+"1479","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",1,0,2,3,1
+"1480","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",1,0,3,3,0
+"1481","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,1,3,1
+"1482","ex9","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",1,0,2,3,0
+"1483","ex9","Projected climate change impacts",24,"H24","Storm Events","ASSP",1,1,3,2,1
+"1484","ex9","Projected climate change impacts",24,"H24","Storm Events","BRPE",2,1,1,2,2
+"1485","ex9","Projected climate change impacts",24,"H24","Storm Events","SCMU",2,1,2,3,2
+"1486","ex9","Projected climate change impacts",24,"H24","Storm Events","SNPL",2,1,3,2,0
+"1487","ex9","Projected climate change impacts",24,"H24","Storm Events","WEGU",1,1,2,2,1
+"1488","ex9","Projected climate change impacts",24,"H24","Storm Events","CAAU",1,1,2,2,1
+"1489","ex9","Projected climate change impacts",25,"H25","Wind","ASSP",1,0,2,2,1
+"1490","ex9","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,1,2,2
+"1491","ex9","Projected climate change impacts",25,"H25","Wind","SCMU",0,NA,NA,NA,1
+"1492","ex9","Projected climate change impacts",25,"H25","Wind","SNPL",1,0,3,2,0
+"1493","ex9","Projected climate change impacts",25,"H25","Wind","WEGU",0,NA,NA,NA,1
+"1494","ex9","Projected climate change impacts",25,"H25","Wind","CAAU",1,0,2,2,1
+"1495","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,3,1,0
+"1496","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,0,1,1,0
+"1497","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",0,NA,NA,NA,0
+"1498","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",1,0,2,1,0
+"1499","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,1,2,1
+"1500","ex9","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,2,1,0
+"1501","ex9","Toxins/diseases/parasites",27,"H27","Disease","ASSP",1,1,2,3,1
+"1502","ex9","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,1,0,3,1
+"1503","ex9","Toxins/diseases/parasites",27,"H27","Disease","SCMU",1,1,3,3,1
+"1504","ex9","Toxins/diseases/parasites",27,"H27","Disease","SNPL",1,0,3,3,1
+"1505","ex9","Toxins/diseases/parasites",27,"H27","Disease","WEGU",3,1,0,3,1
+"1506","ex9","Toxins/diseases/parasites",27,"H27","Disease","CAAU",1,1,2,3,1
+"1507","ex9","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,3,1,1
+"1508","ex9","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,0,3,2,1
+"1509","ex9","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,3,1,1
+"1510","ex9","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,3,0,0
+"1511","ex9","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,3,3,1
+"1512","ex9","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,0,3,1,1
+"1513","ex10","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1514","ex10","Disturbance",1,"H1","Overflights","BRPE",1,3,1,4,2
+"1515","ex10","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1516","ex10","Disturbance",1,"H1","Overflights","SNPL",0,3,1,NA,2
+"1517","ex10","Disturbance",1,"H1","Overflights","WEGU",0,NA,NA,NA,2
+"1518","ex10","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1519","ex10","Disturbance",2,"H2","Recreation","ASSP",0,NA,NA,NA,2
+"1520","ex10","Disturbance",2,"H2","Recreation","BRPE",3,4,1,4,2
+"1521","ex10","Disturbance",2,"H2","Recreation","SCMU",0,NA,NA,NA,2
+"1522","ex10","Disturbance",2,"H2","Recreation","SNPL",4,4,0,4,2
+"1523","ex10","Disturbance",2,"H2","Recreation","WEGU",2,4,1,4,2
+"1524","ex10","Disturbance",2,"H2","Recreation","CAAU",1,4,1,4,1
+"1525","ex10","Fisheries",3,"H3","Fishery Equipment","ASSP",1,4,4,1,1
+"1526","ex10","Fisheries",3,"H3","Fishery Equipment","BRPE",2,3,2,2,2
+"1527","ex10","Fisheries",3,"H3","Fishery Equipment","SCMU",1,4,3,1,1
+"1528","ex10","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,1
+"1529","ex10","Fisheries",3,"H3","Fishery Equipment","WEGU",2,3,1,2,2
+"1530","ex10","Fisheries",3,"H3","Fishery Equipment","CAAU",0,NA,NA,NA,1
+"1531","ex10","Fisheries",4,"H4","Overfishing","ASSP",0,NA,NA,NA,1
+"1532","ex10","Fisheries",4,"H4","Overfishing","BRPE",3,3,1,3,2
+"1533","ex10","Fisheries",4,"H4","Overfishing","SCMU",2,3,2,3,1
+"1534","ex10","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,1
+"1535","ex10","Fisheries",4,"H4","Overfishing","WEGU",2,3,1,3,2
+"1536","ex10","Fisheries",4,"H4","Overfishing","CAAU",0,NA,NA,NA,1
+"1537","ex10","Harmful native species interactions",5,"H5","Native Predators","ASSP",1,2,1,4,2
+"1538","ex10","Harmful native species interactions",5,"H5","Native Predators","BRPE",0,NA,NA,NA,2
+"1539","ex10","Harmful native species interactions",5,"H5","Native Predators","SCMU",1,2,1,4,2
+"1540","ex10","Harmful native species interactions",5,"H5","Native Predators","SNPL",2,3,1,4,2
+"1541","ex10","Harmful native species interactions",5,"H5","Native Predators","WEGU",2,2,1,3,2
+"1542","ex10","Harmful native species interactions",5,"H5","Native Predators","CAAU",1,2,1,4,2
+"1543","ex10","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1544","ex10","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"1545","ex10","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"1546","ex10","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",1,2,2,4,2
+"1547","ex10","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,1
+"1548","ex10","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",1,2,1,3,2
+"1549","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",0,NA,NA,NA,2
+"1550","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,2
+"1551","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,1,4,0,1
+"1552","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,2
+"1553","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,1,4,0,2
+"1554","ex10","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",1,1,3,0,2
+"1555","ex10","Human infrastructure",8,"H8","Oil Platforms","ASSP",0,NA,NA,NA,1
+"1556","ex10","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"1557","ex10","Human infrastructure",8,"H8","Oil Platforms","SCMU",0,NA,NA,NA,1
+"1558","ex10","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,1
+"1559","ex10","Human infrastructure",8,"H8","Oil Platforms","WEGU",0,NA,NA,NA,1
+"1560","ex10","Human infrastructure",8,"H8","Oil Platforms","CAAU",0,NA,NA,NA,1
+"1561","ex10","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,4,3,3,2
+"1562","ex10","Human infrastructure",9,"H9","Offshore Wind","BRPE",1,3,2,4,2
+"1563","ex10","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,4,3,4,2
+"1564","ex10","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,2
+"1565","ex10","Human infrastructure",9,"H9","Offshore Wind","WEGU",2,3,2,4,2
+"1566","ex10","Human infrastructure",9,"H9","Offshore Wind","CAAU",0,NA,NA,NA,2
+"1567","ex10","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,2
+"1568","ex10","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,2
+"1569","ex10","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,2
+"1570","ex10","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,2
+"1571","ex10","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,2
+"1572","ex10","Human infrastructure",10,"H10","Shipping Traffic","CAAU",0,NA,NA,NA,2
+"1573","ex10","Human infrastructure",11,"H11","Artificial Light","ASSP",2,4,0,3,2
+"1574","ex10","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,2
+"1575","ex10","Human infrastructure",11,"H11","Artificial Light","SCMU",2,4,1,3,2
+"1576","ex10","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,2
+"1577","ex10","Human infrastructure",11,"H11","Artificial Light","WEGU",0,NA,NA,NA,2
+"1578","ex10","Human infrastructure",11,"H11","Artificial Light","CAAU",2,4,1,3,2
+"1579","ex10","Invasive species",12,"H12","Invasive Plants","ASSP",3,3,1,3,1
+"1580","ex10","Invasive species",12,"H12","Invasive Plants","BRPE",1,3,2,3,1
+"1581","ex10","Invasive species",12,"H12","Invasive Plants","SCMU",2,3,2,3,1
+"1582","ex10","Invasive species",12,"H12","Invasive Plants","SNPL",3,3,0,4,1
+"1583","ex10","Invasive species",12,"H12","Invasive Plants","WEGU",0,NA,NA,NA,1
+"1584","ex10","Invasive species",12,"H12","Invasive Plants","CAAU",2,3,2,3,1
+"1585","ex10","Invasive species",13,"H13","Black Rats","ASSP",3,4,2,4,1
+"1586","ex10","Invasive species",13,"H13","Black Rats","BRPE",2,4,3,4,1
+"1587","ex10","Invasive species",13,"H13","Black Rats","SCMU",3,4,2,4,1
+"1588","ex10","Invasive species",13,"H13","Black Rats","SNPL",3,4,2,4,1
+"1589","ex10","Invasive species",13,"H13","Black Rats","WEGU",1,4,3,4,1
+"1590","ex10","Invasive species",13,"H13","Black Rats","CAAU",2,4,2,4,1
+"1591","ex10","Invasive species",14,"H14","New Invasive Species","ASSP",3,4,2,4,1
+"1592","ex10","Invasive species",14,"H14","New Invasive Species","BRPE",2,4,3,4,1
+"1593","ex10","Invasive species",14,"H14","New Invasive Species","SCMU",3,4,2,4,1
+"1594","ex10","Invasive species",14,"H14","New Invasive Species","SNPL",4,4,2,4,1
+"1595","ex10","Invasive species",14,"H14","New Invasive Species","WEGU",1,4,3,4,1
+"1596","ex10","Invasive species",14,"H14","New Invasive Species","CAAU",3,4,2,4,1
+"1597","ex10","Pollution",15,"H15","Oil Spills","ASSP",2,1,0,1,2
+"1598","ex10","Pollution",15,"H15","Oil Spills","BRPE",3,1,0,1,2
+"1599","ex10","Pollution",15,"H15","Oil Spills","SCMU",3,1,0,1,2
+"1600","ex10","Pollution",15,"H15","Oil Spills","SNPL",4,2,0,1,2
+"1601","ex10","Pollution",15,"H15","Oil Spills","WEGU",2,1,0,1,2
+"1602","ex10","Pollution",15,"H15","Oil Spills","CAAU",2,2,0,1,2
+"1603","ex10","Pollution",16,"H16","Residual DDT","ASSP",0,NA,NA,NA,0
+"1604","ex10","Pollution",16,"H16","Residual DDT","BRPE",1,0,3,4,0
+"1605","ex10","Pollution",16,"H16","Residual DDT","SCMU",0,NA,NA,NA,0
+"1606","ex10","Pollution",16,"H16","Residual DDT","SNPL",1,0,3,4,0
+"1607","ex10","Pollution",16,"H16","Residual DDT","WEGU",1,0,3,4,0
+"1608","ex10","Pollution",16,"H16","Residual DDT","CAAU",0,NA,NA,NA,0
+"1609","ex10","Pollution",17,"H17","Contaminants","ASSP",1,0,3,2,0
+"1610","ex10","Pollution",17,"H17","Contaminants","BRPE",2,0,3,3,0
+"1611","ex10","Pollution",17,"H17","Contaminants","SCMU",1,0,3,2,0
+"1612","ex10","Pollution",17,"H17","Contaminants","SNPL",1,0,3,2,0
+"1613","ex10","Pollution",17,"H17","Contaminants","WEGU",2,0,3,3,0
+"1614","ex10","Pollution",17,"H17","Contaminants","CAAU",1,0,3,2,0
+"1615","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",0,NA,NA,NA,2
+"1616","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"1617","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",0,NA,NA,NA,2
+"1618","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,0,2,1,2
+"1619","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"1620","ex10","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",0,NA,NA,NA,2
+"1621","ex10","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",3,0,1,2,2
+"1622","ex10","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,2,2,1
+"1623","ex10","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",3,0,1,2,1
+"1624","ex10","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",3,0,2,2,1
+"1625","ex10","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",1,0,2,2,2
+"1626","ex10","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",3,0,1,2,2
+"1627","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",3,0,2,2,2
+"1628","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",2,0,2,2,1
+"1629","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",3,0,2,2,1
+"1630","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",3,0,2,2,1
+"1631","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,2,2,2
+"1632","ex10","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",3,0,2,2,2
+"1633","ex10","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,0
+"1634","ex10","Projected climate change impacts",21,"H21","Precipitation","BRPE",0,NA,NA,NA,0
+"1635","ex10","Projected climate change impacts",21,"H21","Precipitation","SCMU",0,NA,NA,NA,0
+"1636","ex10","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,0
+"1637","ex10","Projected climate change impacts",21,"H21","Precipitation","WEGU",0,NA,NA,NA,0
+"1638","ex10","Projected climate change impacts",21,"H21","Precipitation","CAAU",0,NA,NA,NA,0
+"1639","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,2
+"1640","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",2,0,0,2,2
+"1641","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",0,NA,NA,NA,2
+"1642","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,0,0,2,2
+"1643","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,0,0,2,2
+"1644","ex10","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",0,NA,NA,NA,2
+"1645","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",3,0,1,2,2
+"1646","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",2,0,2,1,2
+"1647","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",3,0,2,2,2
+"1648","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",2,0,2,1,2
+"1649","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,2,1,2
+"1650","ex10","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",3,0,1,2,2
+"1651","ex10","Projected climate change impacts",24,"H24","Storm Events","ASSP",0,NA,NA,NA,1
+"1652","ex10","Projected climate change impacts",24,"H24","Storm Events","BRPE",0,NA,NA,NA,1
+"1653","ex10","Projected climate change impacts",24,"H24","Storm Events","SCMU",0,NA,NA,NA,1
+"1654","ex10","Projected climate change impacts",24,"H24","Storm Events","SNPL",2,0,2,2,1
+"1655","ex10","Projected climate change impacts",24,"H24","Storm Events","WEGU",0,NA,NA,NA,1
+"1656","ex10","Projected climate change impacts",24,"H24","Storm Events","CAAU",0,NA,NA,NA,1
+"1657","ex10","Projected climate change impacts",25,"H25","Wind","ASSP",1,0,3,2,1
+"1658","ex10","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,3,2,1
+"1659","ex10","Projected climate change impacts",25,"H25","Wind","SCMU",2,0,3,2,1
+"1660","ex10","Projected climate change impacts",25,"H25","Wind","SNPL",3,0,3,2,1
+"1661","ex10","Projected climate change impacts",25,"H25","Wind","WEGU",1,0,3,2,1
+"1662","ex10","Projected climate change impacts",25,"H25","Wind","CAAU",1,0,3,2,1
+"1663","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",2,0,3,1,2
+"1664","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",2,0,1,3,1
+"1665","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",2,0,3,2,1
+"1666","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",3,0,2,2,1
+"1667","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,2,2,2
+"1668","ex10","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",2,0,2,1,2
+"1669","ex10","Toxins/diseases/parasites",27,"H27","Disease","ASSP",1,0,4,1,0
+"1670","ex10","Toxins/diseases/parasites",27,"H27","Disease","BRPE",3,0,2,3,2
+"1671","ex10","Toxins/diseases/parasites",27,"H27","Disease","SCMU",1,0,3,2,1
+"1672","ex10","Toxins/diseases/parasites",27,"H27","Disease","SNPL",4,0,2,3,1
+"1673","ex10","Toxins/diseases/parasites",27,"H27","Disease","WEGU",2,0,2,3,2
+"1674","ex10","Toxins/diseases/parasites",27,"H27","Disease","CAAU",1,0,3,2,0
+"1675","ex10","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",0,NA,NA,NA,0
+"1676","ex10","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,1,2,3,0
+"1677","ex10","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",0,NA,NA,NA,0
+"1678","ex10","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",0,NA,NA,NA,0
+"1679","ex10","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,2,3,0
+"1680","ex10","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",0,NA,NA,NA,0
+"1681","ex11","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1682","ex11","Disturbance",1,"H1","Overflights","BRPE",2,3,1,1,2
+"1683","ex11","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1684","ex11","Disturbance",1,"H1","Overflights","SNPL",1,3,1,1,1
+"1685","ex11","Disturbance",1,"H1","Overflights","WEGU",2,3,1,1,2
+"1686","ex11","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1687","ex11","Disturbance",2,"H2","Recreation","ASSP",2,2,1,2,1
+"1688","ex11","Disturbance",2,"H2","Recreation","BRPE",3,3,0,2,2
+"1689","ex11","Disturbance",2,"H2","Recreation","SCMU",1,3,1,2,1
+"1690","ex11","Disturbance",2,"H2","Recreation","SNPL",3,2,0,2,2
+"1691","ex11","Disturbance",2,"H2","Recreation","WEGU",2,2,0,2,2
+"1692","ex11","Disturbance",2,"H2","Recreation","CAAU",1,2,1,2,1
+"1693","ex11","Fisheries",3,"H3","Fishery Equipment","ASSP",1,1,2,0,0
+"1694","ex11","Fisheries",3,"H3","Fishery Equipment","BRPE",2,2,0,1,1
+"1695","ex11","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,2,0,0
+"1696","ex11","Fisheries",3,"H3","Fishery Equipment","SNPL",0,NA,NA,NA,0
+"1697","ex11","Fisheries",3,"H3","Fishery Equipment","WEGU",2,2,0,1,1
+"1698","ex11","Fisheries",3,"H3","Fishery Equipment","CAAU",1,1,2,0,0
+"1699","ex11","Fisheries",4,"H4","Overfishing","ASSP",1,1,3,0,0
+"1700","ex11","Fisheries",4,"H4","Overfishing","BRPE",3,2,1,1,1
+"1701","ex11","Fisheries",4,"H4","Overfishing","SCMU",1,1,3,0,0
+"1702","ex11","Fisheries",4,"H4","Overfishing","SNPL",1,1,3,0,2
+"1703","ex11","Fisheries",4,"H4","Overfishing","WEGU",1,1,1,1,1
+"1704","ex11","Fisheries",4,"H4","Overfishing","CAAU",1,1,3,0,0
+"1705","ex11","Harmful native species interactions",5,"H5","Native Predators","ASSP",2,2,0,3,2
+"1706","ex11","Harmful native species interactions",5,"H5","Native Predators","BRPE",1,1,2,1,1
+"1707","ex11","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,2,0,3,2
+"1708","ex11","Harmful native species interactions",5,"H5","Native Predators","SNPL",3,2,0,2,2
+"1709","ex11","Harmful native species interactions",5,"H5","Native Predators","WEGU",2,1,1,1,2
+"1710","ex11","Harmful native species interactions",5,"H5","Native Predators","CAAU",2,1,1,1,2
+"1711","ex11","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1712","ex11","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"1713","ex11","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"1714","ex11","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",3,2,0,2,2
+"1715","ex11","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"1716","ex11","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"1717","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,1,3,0,1
+"1718","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,1
+"1719","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",1,1,3,0,1
+"1720","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,1
+"1721","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",1,1,3,0,1
+"1722","ex11","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",1,1,3,0,1
+"1723","ex11","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,1,2,1,1
+"1724","ex11","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,1
+"1725","ex11","Human infrastructure",8,"H8","Oil Platforms","SCMU",2,1,1,1,1
+"1726","ex11","Human infrastructure",8,"H8","Oil Platforms","SNPL",1,1,2,1,2
+"1727","ex11","Human infrastructure",8,"H8","Oil Platforms","WEGU",1,1,2,1,1
+"1728","ex11","Human infrastructure",8,"H8","Oil Platforms","CAAU",1,1,2,1,1
+"1729","ex11","Human infrastructure",9,"H9","Offshore Wind","ASSP",1,2,3,2,0
+"1730","ex11","Human infrastructure",9,"H9","Offshore Wind","BRPE",2,3,2,2,0
+"1731","ex11","Human infrastructure",9,"H9","Offshore Wind","SCMU",1,2,3,2,0
+"1732","ex11","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,0
+"1733","ex11","Human infrastructure",9,"H9","Offshore Wind","WEGU",2,2,2,2,0
+"1734","ex11","Human infrastructure",9,"H9","Offshore Wind","CAAU",1,1,3,2,0
+"1735","ex11","Human infrastructure",10,"H10","Shipping Traffic","ASSP",1,1,3,1,0
+"1736","ex11","Human infrastructure",10,"H10","Shipping Traffic","BRPE",1,1,3,1,0
+"1737","ex11","Human infrastructure",10,"H10","Shipping Traffic","SCMU",1,1,3,1,0
+"1738","ex11","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,0
+"1739","ex11","Human infrastructure",10,"H10","Shipping Traffic","WEGU",1,1,3,1,0
+"1740","ex11","Human infrastructure",10,"H10","Shipping Traffic","CAAU",1,1,3,1,0
+"1741","ex11","Human infrastructure",11,"H11","Artificial Light","ASSP",2,2,0,1,1
+"1742","ex11","Human infrastructure",11,"H11","Artificial Light","BRPE",0,NA,NA,NA,1
+"1743","ex11","Human infrastructure",11,"H11","Artificial Light","SCMU",2,2,0,2,1
+"1744","ex11","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,1
+"1745","ex11","Human infrastructure",11,"H11","Artificial Light","WEGU",1,2,2,1,1
+"1746","ex11","Human infrastructure",11,"H11","Artificial Light","CAAU",1,1,1,1,1
+"1747","ex11","Invasive species",12,"H12","Invasive Plants","ASSP",0,NA,NA,NA,2
+"1748","ex11","Invasive species",12,"H12","Invasive Plants","BRPE",1,1,1,2,1
+"1749","ex11","Invasive species",12,"H12","Invasive Plants","SCMU",2,2,0,2,2
+"1750","ex11","Invasive species",12,"H12","Invasive Plants","SNPL",1,1,1,2,2
+"1751","ex11","Invasive species",12,"H12","Invasive Plants","WEGU",1,1,0,2,2
+"1752","ex11","Invasive species",12,"H12","Invasive Plants","CAAU",2,1,0,2,2
+"1753","ex11","Invasive species",13,"H13","Black Rats","ASSP",1,1,1,1,1
+"1754","ex11","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,1
+"1755","ex11","Invasive species",13,"H13","Black Rats","SCMU",2,2,1,2,1
+"1756","ex11","Invasive species",13,"H13","Black Rats","SNPL",1,1,1,1,0
+"1757","ex11","Invasive species",13,"H13","Black Rats","WEGU",1,1,2,1,0
+"1758","ex11","Invasive species",13,"H13","Black Rats","CAAU",2,1,2,1,0
+"1759","ex11","Invasive species",14,"H14","New Invasive Species","ASSP",2,2,0,2,2
+"1760","ex11","Invasive species",14,"H14","New Invasive Species","BRPE",1,2,0,2,2
+"1761","ex11","Invasive species",14,"H14","New Invasive Species","SCMU",2,2,0,2,2
+"1762","ex11","Invasive species",14,"H14","New Invasive Species","SNPL",2,2,0,2,2
+"1763","ex11","Invasive species",14,"H14","New Invasive Species","WEGU",1,2,0,2,2
+"1764","ex11","Invasive species",14,"H14","New Invasive Species","CAAU",2,2,0,2,2
+"1765","ex11","Pollution",15,"H15","Oil Spills","ASSP",2,2,0,2,2
+"1766","ex11","Pollution",15,"H15","Oil Spills","BRPE",2,2,0,2,2
+"1767","ex11","Pollution",15,"H15","Oil Spills","SCMU",2,2,0,2,2
+"1768","ex11","Pollution",15,"H15","Oil Spills","SNPL",2,2,0,2,2
+"1769","ex11","Pollution",15,"H15","Oil Spills","WEGU",2,2,0,2,2
+"1770","ex11","Pollution",15,"H15","Oil Spills","CAAU",2,2,0,2,2
+"1771","ex11","Pollution",16,"H16","Residual DDT","ASSP",2,1,0,3,1
+"1772","ex11","Pollution",16,"H16","Residual DDT","BRPE",3,1,0,3,1
+"1773","ex11","Pollution",16,"H16","Residual DDT","SCMU",2,1,0,3,1
+"1774","ex11","Pollution",16,"H16","Residual DDT","SNPL",1,1,2,1,1
+"1775","ex11","Pollution",16,"H16","Residual DDT","WEGU",1,1,1,3,1
+"1776","ex11","Pollution",16,"H16","Residual DDT","CAAU",1,1,0,3,1
+"1777","ex11","Pollution",17,"H17","Contaminants","ASSP",1,1,2,1,0
+"1778","ex11","Pollution",17,"H17","Contaminants","BRPE",1,1,2,1,0
+"1779","ex11","Pollution",17,"H17","Contaminants","SCMU",1,1,2,1,0
+"1780","ex11","Pollution",17,"H17","Contaminants","SNPL",1,1,2,1,0
+"1781","ex11","Pollution",17,"H17","Contaminants","WEGU",2,1,2,1,0
+"1782","ex11","Pollution",17,"H17","Contaminants","CAAU",1,1,2,1,0
+"1783","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",2,1,1,2,1
+"1784","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"1785","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",2,1,1,2,1
+"1786","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",2,0,1,2,1
+"1787","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"1788","ex11","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",2,1,1,2,1
+"1789","ex11","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",2,0,0,2,2
+"1790","ex11","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",2,0,0,2,2
+"1791","ex11","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,0,2,2
+"1792","ex11","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",2,0,0,2,1
+"1793","ex11","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",2,0,0,2,2
+"1794","ex11","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",2,0,0,2,2
+"1795","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",2,0,0,2,1
+"1796","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",3,0,0,2,1
+"1797","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",2,0,0,2,1
+"1798","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",1,0,0,2,1
+"1799","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,0,2,1
+"1800","ex11","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",2,0,0,2,1
+"1801","ex11","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"1802","ex11","Projected climate change impacts",21,"H21","Precipitation","BRPE",1,1,1,1,1
+"1803","ex11","Projected climate change impacts",21,"H21","Precipitation","SCMU",2,2,1,2,1
+"1804","ex11","Projected climate change impacts",21,"H21","Precipitation","SNPL",0,NA,NA,NA,1
+"1805","ex11","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,2,1,2,1
+"1806","ex11","Projected climate change impacts",21,"H21","Precipitation","CAAU",2,2,1,1,1
+"1807","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",0,NA,NA,NA,1
+"1808","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",2,1,1,2,1
+"1809","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,2,2,2,0
+"1810","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",1,1,1,2,0
+"1811","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,2,1,2,1
+"1812","ex11","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,2,2,2,0
+"1813","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",2,0,1,2,0
+"1814","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",2,0,1,2,1
+"1815","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,1,2,0
+"1816","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",1,0,1,2,0
+"1817","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",2,0,1,2,0
+"1818","ex11","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",2,0,1,2,0
+"1819","ex11","Projected climate change impacts",24,"H24","Storm Events","ASSP",2,0,1,1,1
+"1820","ex11","Projected climate change impacts",24,"H24","Storm Events","BRPE",1,0,2,1,0
+"1821","ex11","Projected climate change impacts",24,"H24","Storm Events","SCMU",2,0,1,1,1
+"1822","ex11","Projected climate change impacts",24,"H24","Storm Events","SNPL",1,0,2,1,0
+"1823","ex11","Projected climate change impacts",24,"H24","Storm Events","WEGU",1,0,3,1,0
+"1824","ex11","Projected climate change impacts",24,"H24","Storm Events","CAAU",1,0,1,1,1
+"1825","ex11","Projected climate change impacts",25,"H25","Wind","ASSP",1,0,2,1,0
+"1826","ex11","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,1,1,1
+"1827","ex11","Projected climate change impacts",25,"H25","Wind","SCMU",1,0,2,1,0
+"1828","ex11","Projected climate change impacts",25,"H25","Wind","SNPL",0,NA,NA,NA,0
+"1829","ex11","Projected climate change impacts",25,"H25","Wind","WEGU",1,0,3,1,0
+"1830","ex11","Projected climate change impacts",25,"H25","Wind","CAAU",1,0,2,1,0
+"1831","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,3,0,0
+"1832","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,0,2,0,0
+"1833","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,3,0,0
+"1834","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",0,NA,NA,NA,0
+"1835","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,1,1,0
+"1836","ex11","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,3,0,0
+"1837","ex11","Toxins/diseases/parasites",27,"H27","Disease","ASSP",1,1,3,2,0
+"1838","ex11","Toxins/diseases/parasites",27,"H27","Disease","BRPE",2,1,2,3,1
+"1839","ex11","Toxins/diseases/parasites",27,"H27","Disease","SCMU",1,1,3,2,0
+"1840","ex11","Toxins/diseases/parasites",27,"H27","Disease","SNPL",2,1,0,2,1
+"1841","ex11","Toxins/diseases/parasites",27,"H27","Disease","WEGU",2,1,0,3,1
+"1842","ex11","Toxins/diseases/parasites",27,"H27","Disease","CAAU",1,1,3,2,0
+"1843","ex11","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",1,0,2,1,0
+"1844","ex11","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",1,0,2,1,0
+"1845","ex11","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",1,0,2,1,0
+"1846","ex11","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",1,0,2,1,0
+"1847","ex11","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",1,0,2,1,0
+"1848","ex11","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",1,0,2,1,0
+"1849","ex12","Disturbance",1,"H1","Overflights","ASSP",0,NA,NA,NA,2
+"1850","ex12","Disturbance",1,"H1","Overflights","BRPE",1,3,1,3,1
+"1851","ex12","Disturbance",1,"H1","Overflights","SCMU",0,NA,NA,NA,2
+"1852","ex12","Disturbance",1,"H1","Overflights","SNPL",1,3,2,3,1
+"1853","ex12","Disturbance",1,"H1","Overflights","WEGU",1,3,1,3,1
+"1854","ex12","Disturbance",1,"H1","Overflights","CAAU",0,NA,NA,NA,2
+"1855","ex12","Disturbance",2,"H2","Recreation","ASSP",1,3,1,3,2
+"1856","ex12","Disturbance",2,"H2","Recreation","BRPE",1,3,1,4,2
+"1857","ex12","Disturbance",2,"H2","Recreation","SCMU",1,3,3,1,1
+"1858","ex12","Disturbance",2,"H2","Recreation","SNPL",2,3,1,3,1
+"1859","ex12","Disturbance",2,"H2","Recreation","WEGU",2,3,0,4,2
+"1860","ex12","Disturbance",2,"H2","Recreation","CAAU",1,3,3,1,1
+"1861","ex12","Fisheries",3,"H3","Fishery Equipment","ASSP",0,NA,NA,NA,2
+"1862","ex12","Fisheries",3,"H3","Fishery Equipment","BRPE",2,2,0,4,2
+"1863","ex12","Fisheries",3,"H3","Fishery Equipment","SCMU",1,1,3,1,1
+"1864","ex12","Fisheries",3,"H3","Fishery Equipment","SNPL",1,1,4,1,1
+"1865","ex12","Fisheries",3,"H3","Fishery Equipment","WEGU",2,2,0,4,2
+"1866","ex12","Fisheries",3,"H3","Fishery Equipment","CAAU",1,1,3,1,1
+"1867","ex12","Fisheries",4,"H4","Overfishing","ASSP",3,1,4,1,1
+"1868","ex12","Fisheries",4,"H4","Overfishing","BRPE",4,2,2,2,2
+"1869","ex12","Fisheries",4,"H4","Overfishing","SCMU",3,1,4,1,1
+"1870","ex12","Fisheries",4,"H4","Overfishing","SNPL",0,NA,NA,NA,1
+"1871","ex12","Fisheries",4,"H4","Overfishing","WEGU",2,2,3,2,1
+"1872","ex12","Fisheries",4,"H4","Overfishing","CAAU",3,1,4,1,1
+"1873","ex12","Harmful native species interactions",5,"H5","Native Predators","ASSP",3,3,0,4,2
+"1874","ex12","Harmful native species interactions",5,"H5","Native Predators","BRPE",0,NA,NA,NA,2
+"1875","ex12","Harmful native species interactions",5,"H5","Native Predators","SCMU",3,2,0,4,2
+"1876","ex12","Harmful native species interactions",5,"H5","Native Predators","SNPL",2,3,0,4,2
+"1877","ex12","Harmful native species interactions",5,"H5","Native Predators","WEGU",1,1,1,4,2
+"1878","ex12","Harmful native species interactions",5,"H5","Native Predators","CAAU",3,2,0,4,2
+"1879","ex12","Harmful native species interactions",6,"H6","Pinnipeds","ASSP",0,NA,NA,NA,2
+"1880","ex12","Harmful native species interactions",6,"H6","Pinnipeds","BRPE",0,NA,NA,NA,2
+"1881","ex12","Harmful native species interactions",6,"H6","Pinnipeds","SCMU",0,NA,NA,NA,2
+"1882","ex12","Harmful native species interactions",6,"H6","Pinnipeds","SNPL",2,1,1,4,1
+"1883","ex12","Harmful native species interactions",6,"H6","Pinnipeds","WEGU",0,NA,NA,NA,2
+"1884","ex12","Harmful native species interactions",6,"H6","Pinnipeds","CAAU",0,NA,NA,NA,2
+"1885","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","ASSP",1,0,3,1,1
+"1886","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","BRPE",0,NA,NA,NA,0
+"1887","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","SCMU",0,NA,NA,NA,0
+"1888","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","SNPL",0,NA,NA,NA,0
+"1889","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","WEGU",0,NA,NA,NA,0
+"1890","ex12","Harmful native species interactions",7,"H7","Seabird Colonization","CAAU",0,NA,NA,NA,0
+"1891","ex12","Human infrastructure",8,"H8","Oil Platforms","ASSP",1,0,3,2,1
+"1892","ex12","Human infrastructure",8,"H8","Oil Platforms","BRPE",0,NA,NA,NA,2
+"1893","ex12","Human infrastructure",8,"H8","Oil Platforms","SCMU",2,0,0,2,1
+"1894","ex12","Human infrastructure",8,"H8","Oil Platforms","SNPL",0,NA,NA,NA,2
+"1895","ex12","Human infrastructure",8,"H8","Oil Platforms","WEGU",0,NA,NA,NA,2
+"1896","ex12","Human infrastructure",8,"H8","Oil Platforms","CAAU",2,0,0,2,1
+"1897","ex12","Human infrastructure",9,"H9","Offshore Wind","ASSP",2,2,3,3,1
+"1898","ex12","Human infrastructure",9,"H9","Offshore Wind","BRPE",2,2,2,4,1
+"1899","ex12","Human infrastructure",9,"H9","Offshore Wind","SCMU",2,2,3,3,1
+"1900","ex12","Human infrastructure",9,"H9","Offshore Wind","SNPL",0,NA,NA,NA,1
+"1901","ex12","Human infrastructure",9,"H9","Offshore Wind","WEGU",1,2,2,4,1
+"1902","ex12","Human infrastructure",9,"H9","Offshore Wind","CAAU",2,2,3,3,1
+"1903","ex12","Human infrastructure",10,"H10","Shipping Traffic","ASSP",0,NA,NA,NA,0
+"1904","ex12","Human infrastructure",10,"H10","Shipping Traffic","BRPE",0,NA,NA,NA,0
+"1905","ex12","Human infrastructure",10,"H10","Shipping Traffic","SCMU",0,NA,NA,NA,0
+"1906","ex12","Human infrastructure",10,"H10","Shipping Traffic","SNPL",0,NA,NA,NA,0
+"1907","ex12","Human infrastructure",10,"H10","Shipping Traffic","WEGU",0,NA,NA,NA,0
+"1908","ex12","Human infrastructure",10,"H10","Shipping Traffic","CAAU",0,NA,NA,NA,0
+"1909","ex12","Human infrastructure",11,"H11","Artificial Light","ASSP",2,1,0,2,2
+"1910","ex12","Human infrastructure",11,"H11","Artificial Light","BRPE",1,1,1,2,1
+"1911","ex12","Human infrastructure",11,"H11","Artificial Light","SCMU",2,1,0,2,2
+"1912","ex12","Human infrastructure",11,"H11","Artificial Light","SNPL",0,NA,NA,NA,0
+"1913","ex12","Human infrastructure",11,"H11","Artificial Light","WEGU",0,NA,NA,NA,1
+"1914","ex12","Human infrastructure",11,"H11","Artificial Light","CAAU",2,1,0,2,2
+"1915","ex12","Invasive species",12,"H12","Invasive Plants","ASSP",1,2,2,2,1
+"1916","ex12","Invasive species",12,"H12","Invasive Plants","BRPE",1,3,1,3,2
+"1917","ex12","Invasive species",12,"H12","Invasive Plants","SCMU",3,1,0,2,2
+"1918","ex12","Invasive species",12,"H12","Invasive Plants","SNPL",3,2,0,3,1
+"1919","ex12","Invasive species",12,"H12","Invasive Plants","WEGU",2,2,0,3,2
+"1920","ex12","Invasive species",12,"H12","Invasive Plants","CAAU",3,2,1,3,1
+"1921","ex12","Invasive species",13,"H13","Black Rats","ASSP",4,4,0,4,2
+"1922","ex12","Invasive species",13,"H13","Black Rats","BRPE",0,NA,NA,NA,2
+"1923","ex12","Invasive species",13,"H13","Black Rats","SCMU",4,4,0,4,2
+"1924","ex12","Invasive species",13,"H13","Black Rats","SNPL",4,4,0,4,1
+"1925","ex12","Invasive species",13,"H13","Black Rats","WEGU",2,4,2,3,1
+"1926","ex12","Invasive species",13,"H13","Black Rats","CAAU",4,4,0,4,2
+"1927","ex12","Invasive species",14,"H14","New Invasive Species","ASSP",2,4,0,4,1
+"1928","ex12","Invasive species",14,"H14","New Invasive Species","BRPE",1,4,1,4,1
+"1929","ex12","Invasive species",14,"H14","New Invasive Species","SCMU",2,4,0,4,1
+"1930","ex12","Invasive species",14,"H14","New Invasive Species","SNPL",2,4,0,4,1
+"1931","ex12","Invasive species",14,"H14","New Invasive Species","WEGU",1,4,1,4,1
+"1932","ex12","Invasive species",14,"H14","New Invasive Species","CAAU",2,4,0,4,1
+"1933","ex12","Pollution",15,"H15","Oil Spills","ASSP",1,1,0,4,1
+"1934","ex12","Pollution",15,"H15","Oil Spills","BRPE",3,1,0,4,2
+"1935","ex12","Pollution",15,"H15","Oil Spills","SCMU",3,1,0,4,2
+"1936","ex12","Pollution",15,"H15","Oil Spills","SNPL",2,1,0,4,1
+"1937","ex12","Pollution",15,"H15","Oil Spills","WEGU",2,1,0,4,2
+"1938","ex12","Pollution",15,"H15","Oil Spills","CAAU",3,1,0,4,2
+"1939","ex12","Pollution",16,"H16","Residual DDT","ASSP",2,0,0,4,2
+"1940","ex12","Pollution",16,"H16","Residual DDT","BRPE",2,0,0,4,2
+"1941","ex12","Pollution",16,"H16","Residual DDT","SCMU",2,0,2,4,1
+"1942","ex12","Pollution",16,"H16","Residual DDT","SNPL",2,0,3,4,0
+"1943","ex12","Pollution",16,"H16","Residual DDT","WEGU",2,0,2,4,1
+"1944","ex12","Pollution",16,"H16","Residual DDT","CAAU",2,0,2,4,0
+"1945","ex12","Pollution",17,"H17","Contaminants","ASSP",2,2,2,2,1
+"1946","ex12","Pollution",17,"H17","Contaminants","BRPE",1,2,3,2,1
+"1947","ex12","Pollution",17,"H17","Contaminants","SCMU",2,2,3,2,1
+"1948","ex12","Pollution",17,"H17","Contaminants","SNPL",1,2,3,2,0
+"1949","ex12","Pollution",17,"H17","Contaminants","WEGU",2,3,3,2,1
+"1950","ex12","Pollution",17,"H17","Contaminants","CAAU",2,2,3,2,1
+"1951","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","ASSP",2,1,0,3,2
+"1952","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","BRPE",0,NA,NA,NA,2
+"1953","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","SCMU",3,1,0,3,2
+"1954","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","SNPL",3,1,0,3,0
+"1955","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","WEGU",0,NA,NA,NA,2
+"1956","ex12","Projected climate change impacts",18,"H18","Sea Level Rise","CAAU",2,1,0,3,2
+"1957","ex12","Projected climate change impacts",19,"H19","Marine Productivity","ASSP",2,0,0,3,2
+"1958","ex12","Projected climate change impacts",19,"H19","Marine Productivity","BRPE",3,0,0,3,2
+"1959","ex12","Projected climate change impacts",19,"H19","Marine Productivity","SCMU",2,0,0,3,2
+"1960","ex12","Projected climate change impacts",19,"H19","Marine Productivity","SNPL",0,NA,NA,NA,1
+"1961","ex12","Projected climate change impacts",19,"H19","Marine Productivity","WEGU",1,0,1,3,2
+"1962","ex12","Projected climate change impacts",19,"H19","Marine Productivity","CAAU",3,0,0,3,2
+"1963","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","ASSP",3,0,0,3,2
+"1964","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","BRPE",3,0,0,3,2
+"1965","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","SCMU",3,0,0,3,2
+"1966","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","SNPL",0,NA,NA,NA,0
+"1967","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","WEGU",1,0,1,3,1
+"1968","ex12","Projected climate change impacts",20,"H20","Sea Surface Temperature","CAAU",3,0,0,3,2
+"1969","ex12","Projected climate change impacts",21,"H21","Precipitation","ASSP",0,NA,NA,NA,1
+"1970","ex12","Projected climate change impacts",21,"H21","Precipitation","BRPE",0,NA,NA,NA,1
+"1971","ex12","Projected climate change impacts",21,"H21","Precipitation","SCMU",1,1,3,2,1
+"1972","ex12","Projected climate change impacts",21,"H21","Precipitation","SNPL",1,1,1,2,0
+"1973","ex12","Projected climate change impacts",21,"H21","Precipitation","WEGU",1,1,2,2,1
+"1974","ex12","Projected climate change impacts",21,"H21","Precipitation","CAAU",1,1,2,2,1
+"1975","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","ASSP",1,0,3,2,1
+"1976","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","BRPE",1,0,3,2,1
+"1977","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","SCMU",1,0,3,2,1
+"1978","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","SNPL",2,0,3,2,0
+"1979","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","WEGU",2,1,2,3,1
+"1980","ex12","Projected climate change impacts",22,"H22","Ambient Temperature","CAAU",1,0,3,2,1
+"1981","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","ASSP",1,0,2,1,1
+"1982","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","BRPE",3,0,1,1,1
+"1983","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","SCMU",2,0,2,1,1
+"1984","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","SNPL",0,NA,NA,NA,0
+"1985","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","WEGU",1,0,2,1,1
+"1986","ex12","Projected climate change impacts",23,"H23","Marine Heat Waves","CAAU",3,0,1,1,1
+"1987","ex12","Projected climate change impacts",24,"H24","Storm Events","ASSP",2,1,0,2,1
+"1988","ex12","Projected climate change impacts",24,"H24","Storm Events","BRPE",1,0,2,2,1
+"1989","ex12","Projected climate change impacts",24,"H24","Storm Events","SCMU",2,1,0,2,1
+"1990","ex12","Projected climate change impacts",24,"H24","Storm Events","SNPL",3,0,3,2,0
+"1991","ex12","Projected climate change impacts",24,"H24","Storm Events","WEGU",0,NA,NA,NA,1
+"1992","ex12","Projected climate change impacts",24,"H24","Storm Events","CAAU",2,1,1,2,1
+"1993","ex12","Projected climate change impacts",25,"H25","Wind","ASSP",1,0,3,1,0
+"1994","ex12","Projected climate change impacts",25,"H25","Wind","BRPE",2,0,2,1,1
+"1995","ex12","Projected climate change impacts",25,"H25","Wind","SCMU",1,0,3,1,0
+"1996","ex12","Projected climate change impacts",25,"H25","Wind","SNPL",1,0,3,1,0
+"1997","ex12","Projected climate change impacts",25,"H25","Wind","WEGU",1,0,3,1,0
+"1998","ex12","Projected climate change impacts",25,"H25","Wind","CAAU",1,0,3,1,0
+"1999","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","ASSP",1,0,4,1,0
+"2000","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","BRPE",1,0,3,1,0
+"2001","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SCMU",1,0,4,1,0
+"2002","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","SNPL",0,NA,NA,NA,0
+"2003","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","WEGU",1,0,3,1,0
+"2004","ex12","Toxins/diseases/parasites",26,"H26","Harmful Algal Blooms","CAAU",1,0,4,1,0
+"2005","ex12","Toxins/diseases/parasites",27,"H27","Disease","ASSP",2,1,4,3,0
+"2006","ex12","Toxins/diseases/parasites",27,"H27","Disease","BRPE",2,1,3,3,1
+"2007","ex12","Toxins/diseases/parasites",27,"H27","Disease","SCMU",2,1,4,3,0
+"2008","ex12","Toxins/diseases/parasites",27,"H27","Disease","SNPL",2,1,4,3,0
+"2009","ex12","Toxins/diseases/parasites",27,"H27","Disease","WEGU",2,1,3,3,0
+"2010","ex12","Toxins/diseases/parasites",27,"H27","Disease","CAAU",2,1,4,3,0
+"2011","ex12","Toxins/diseases/parasites",28,"H28","Parasites","ASSP",0,NA,NA,NA,0
+"2012","ex12","Toxins/diseases/parasites",28,"H28","Parasites","BRPE",0,NA,NA,NA,0
+"2013","ex12","Toxins/diseases/parasites",28,"H28","Parasites","SCMU",0,NA,NA,NA,0
+"2014","ex12","Toxins/diseases/parasites",28,"H28","Parasites","SNPL",0,NA,NA,NA,0
+"2015","ex12","Toxins/diseases/parasites",28,"H28","Parasites","WEGU",0,NA,NA,NA,0
+"2016","ex12","Toxins/diseases/parasites",28,"H28","Parasites","CAAU",0,NA,NA,NA,0
