@@ -1,8 +1,8 @@
-## *Great GitHub Repos through the Ages* (Paper Title)
+## *USE OF CONSTRUCTED VALUE OF INFORMATION TO IDENTIFY CRITICAL UNCERTAINTIES IN MARINE BIRD CONSERVATION* 
 
-#### Ann K Postdoc and Sarah J Converse (Paper Authors)
+#### David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W. Bradley, Catherine A. Carter, Kenneth Convery, Andrew J. Dennhardt, Nick D. Holmes, Jim A. Howard, Michael E. Johns, Annie Little, Stacey D. Ostermann-Kelm, Michael W. Parker, California David Pereksta, Dan Robinette, Marc D. Romano, T. Scott Sillett, and Sarah J. Converse
 
-##### Please contact the first author for questions about the code or data: (add Name and email)
+##### Please contact the first author for questions about the code or data: Amelia DuVall (ajduvall@uw.edu)
 ##### Secondary contact: Sarah Converse (sconver@usgs.gov)
 
 _______________________________________________________________________________________
@@ -13,21 +13,20 @@ ________________________________________________________________________________
 
 ### Table of Contents 
 
-(Add detail on what is in each folder within the repo - see the template for all possible folders, but at a minimum you should have the folders below, see examples below.) 
 
-### [Scripts](./scripts)
+### [scripts](./scripts)
 
 Contains scripts to run all analyses. 
  
-### [Data](./data) 
+### [data](./data) 
 
 Contains raw and processed data.
 
-### [Results](./results)
+### [results](./results)
 
 Contains raw and processed results.  
 
-### [Figures](./figures)
+### [figures](./figures)
 
 Contains pdf versions of all figures in manuscript. 
 
@@ -42,8 +41,6 @@ dplyr_1.0.5
 ### Details of Article 
 
 (Citation here, see example) 
-
-Warlick AJ, DS Johnson, TS Gelatt, and SJ Converse. 2022. Environmental drivers of demography and potential factors limiting the recovery of an endangered marine top predator. Ecosphere 2022:e4325. https://doi.org/10.1002/ecs2.4325. 
 
 ### How to Use this Repository 
 
