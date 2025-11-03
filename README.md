@@ -43,16 +43,16 @@ Running under: macOS 15.6.1
 cowplot_1.2.0    
 dplyr_1.1.4  
 ggplot2_4.0.0  
-ggrepel_0.9.6 
-ggstance_0.3.7 
-here_1.0.1 
-janitor_2.2.0 
-jcolors_0.0.5 
-RColorBrewer_1.1-3 
-readxl_1.4.3 
-scales_1.4.0 
-tidyverse_2.0.0 
-viridis_0.6.5 
+ggrepel_0.9.6   
+ggstance_0.3.7   
+here_1.0.1   
+janitor_2.2.0   
+jcolors_0.0.5   
+RColorBrewer_1.1-3   
+readxl_1.4.3   
+scales_1.4.0   
+tidyverse_2.0.0   
+viridis_0.6.5   
 
 ### Details of Article 
 
