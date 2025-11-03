@@ -2,8 +2,8 @@
 
 #### Amelia J DuVall, David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W Bradley, Catherine A Carter, Kenneth Convery, Andrew J Dennhardt, Nick D Holmes, Jim A Howard, Michael E Johns, Annie Little, Stacey D Ostermann-Kelm, Michael W Parker, David Pereksta, Dan Robinette, Marc D Romano, T Scott Sillett, and Sarah J Converse
 
-##### Please contact the first author for questions about the code or data: Amelia DuVall (ajduvall@uw.edu)
-##### Secondary contact: Sarah Converse (sconver@usgs.gov)
+##### Please contact the first author for questions about the code or data: Amelia J DuVall (ajduvall@uw.edu)
+##### Secondary contact: Sarah J Converse (sconver@usgs.gov)
 
 _______________________________________________________________________________________
 
@@ -56,7 +56,7 @@ viridis_0.6.5
 
 ### Details of Article 
 
-(Citation here, see example) 
+DuVall AJ, Mazurkiewicz DM, Adams J, Bedolla Guzman Y, Bradley RW, Carter CA, Convery K, Dennhardt AJ, Holmes ND, Howard JA, Johns ME, Little A, Ostermann-Kelm SD, Parker MW, Pereksta D, Robinette D, Romano MD, Sillett TS & Converse SJ. In prep. Use of constructed value of information to identify critical uncertainties in marine bird conservation. 
 
 ### How to Use this Repository 
 
