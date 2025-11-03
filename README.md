@@ -40,20 +40,19 @@ R version 4.4.1 (2024-06-14)
 Platform: aarch64-apple-darwin20  
 Running under: macOS 15.6.1  
 
-      Package Version
-      cowplot   1.2.0
-        dplyr   1.1.4
-      ggplot2   4.0.0
-      ggrepel   0.9.6
-     ggstance   0.3.7
-         here   1.0.1
-      janitor   2.2.0
-      jcolors   0.0.5
- RColorBrewer   1.1-3
-       readxl   1.4.3
-       scales   1.4.0
-    tidyverse   2.0.0
-      viridis   0.6.5
+cowplot_1.2.0
+dplyr_1.1.4
+ggplot2_4.0.0
+ggrepel_0.9.6
+ggstance_0.3.7
+here_1.0.1
+janitor_2.2.0
+jcolors_0.0.5
+RColorBrewer_1.1-3
+readxl_1.4.3
+scales_1.4.0
+tidyverse_2.0.0
+viridis_0.6.5
 
 ### Details of Article 
 
