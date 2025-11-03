@@ -1,5 +1,4 @@
-## Bootstrapping confidence
-## Full weight
+## Bootstrap by species
 
 ## load libraries
 library(tidyverse)
@@ -9,17 +8,17 @@ library(here)
 set.seed(16)
 
 ## load data
-assp <- readRDS(here("data", "assp_round2.RDS")) %>%
+assp <- readRDS(here("results", "assp_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
-brpe <- readRDS(here("data", "brpe_round2.RDS")) %>%
+brpe <- readRDS(here("results", "brpe_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
-caau <- readRDS(here("data", "caau_round2.RDS")) %>%
+caau <- readRDS(here("results", "caau_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
-scmu <- readRDS(here("data", "scmu_round2.RDS")) %>%
+scmu <- readRDS(here("results", "scmu_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
-snpl <- readRDS(here("data", "snpl_round2.RDS")) %>%
+snpl <- readRDS(here("results", "snpl_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
-wegu <- readRDS(here("data", "wegu_round2.RDS")) %>%
+wegu <- readRDS(here("results", "wegu_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"))
 
 ## set parameters
@@ -39,15 +38,17 @@ for (b in 1:nbirds) {
     group_by(hypothesis, code, name) %>%
     summarize(n_ex = sum(expert_count))
   n_ex <- as.vector(n_ex_rel$n_ex) # number of experts who thought hypothesis was relevant
-  n_ex_total <- 12
+  #n_ex_total <- 12
+  # detect number of experts for this species
+  n_ex_total <- length(unique(birds[[b]]$expert)) # should be 12 for most, but 11 for caau
   hypos <- unique(n_ex_rel$hypothesis) # vector of hypothesis number
   name <- unique(n_ex_rel$name) # vector of hypothesis name
   expert_cvoi <- expert_red <- array(dim = c(S, n_ex_total, length(hypos))) # store sampled expert numbers
   temp_cvoi <- temp_red <- array(dim = c(S, n_ex_total, length(hypos))) # store temp code that links hypotheses with experts
   X_cvoi <- X_red <- array(dim = c(S, n_ex_total, length(hypos))) # store score for sampled experts
-  mu_cvoi <- mu_red <- matrix(nrow=S, ncol=length(hypos)) # matrix of avg score for each sample and hypothesis
-  CVOI_bar<-Red_bar<-length(hypos) # vector of mean cvoi & reducibility for each hypothesis
-  var_cvoi<-var_red<-length(hypos) # vector of cvoi & reducibility variance for each hypothesis
+  mu_cvoi <- mu_red <- matrix(nrow = S, ncol = length(hypos)) # matrix of avg score for each sample and hypothesis
+  CVOI_bar <- Red_bar <- length(hypos) # vector of mean cvoi & reducibility for each hypothesis
+  var_cvoi <- var_red <- length(hypos) # vector of cvoi & reducibility variance for each hypothesis
   e2e_sensitivity <- matrix(nrow = (length(hypos)), ncol = 4)
   
   for (h in 1:length(hypos)){

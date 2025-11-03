@@ -1,6 +1,6 @@
 ## *Use of Constructed Value of Information to identify critical uncertainties in marine bird conservation* 
 
-#### David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W. Bradley, Catherine A. Carter, Kenneth Convery, Andrew J. Dennhardt, Nick D. Holmes, Jim A. Howard, Michael E. Johns, Annie Little, Stacey D. Ostermann-Kelm, Michael W. Parker, California David Pereksta, Dan Robinette, Marc D. Romano, T. Scott Sillett, and Sarah J. Converse
+#### David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W. Bradley, Catherine A. Carter, Kenneth Convery, Andrew J. Dennhardt, Nick D. Holmes, Jim A. Howard, Michael E. Johns, Annie Little, Stacey D. Ostermann-Kelm, Michael W. Parker, David Pereksta, Dan Robinette, Marc D. Romano, T. Scott Sillett, and Sarah J. Converse
 
 ##### Please contact the first author for questions about the code or data: Amelia DuVall (ajduvall@uw.edu)
 ##### Secondary contact: Sarah Converse (sconver@usgs.gov)
@@ -52,4 +52,4 @@ dplyr_1.0.5
 
 ### How to Use this Repository 
 
-(Provide some guidance here to users, is there an order in which they should run things, for example?)  
+- Load expert elicitation data by running [load_round-2.R](./scripts/01_format_data/load_round-2.R) in the [01_format_data](./scripts/01_format_data) subfolder in the [scripts](./scripts) folder.

@@ -1,5 +1,4 @@
-## Bootstrapping confidence
-## Linear weight
+## Bootstrap by species - linear confidence
 
 ## load libraries
 library(tidyverse)
@@ -9,22 +8,22 @@ library(here)
 set.seed(16)
 
 ## load data
-assp <- readRDS(here("data", "assp_round2.RDS")) %>%
+assp <- readRDS(here("results", "assp_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
-brpe <- readRDS(here("data", "brpe_round2.RDS")) %>%
+brpe <- readRDS(here("results", "brpe_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
-caau <- readRDS(here("data", "caau_round2.RDS")) %>%
+caau <- readRDS(here("results", "caau_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
-scmu <- readRDS(here("data", "scmu_round2.RDS")) %>%
+scmu <- readRDS(here("results", "scmu_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
-snpl <- readRDS(here("data", "snpl_round2.RDS")) %>%
+snpl <- readRDS(here("results", "snpl_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
-wegu <- readRDS(here("data", "wegu_round2.RDS")) %>%
+wegu <- readRDS(here("results", "wegu_raw_scores.RDS")) %>%
   mutate(sample_code = paste(hypothesis, expert, sep = "-"),
          conf_weight = ifelse(conf == 2, 1, ifelse(conf == 1, 0.5, 0.01)))
 
