@@ -1,6 +1,6 @@
 ## *Use of Constructed Value of Information to identify critical uncertainties in marine bird conservation* 
 
-#### David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W. Bradley, Catherine A. Carter, Kenneth Convery, Andrew J. Dennhardt, Nick D. Holmes, Jim A. Howard, Michael E. Johns, Annie Little, Stacey D. Ostermann-Kelm, Michael W. Parker, David Pereksta, Dan Robinette, Marc D. Romano, T. Scott Sillett, and Sarah J. Converse
+#### Amelia J DuVall, David Mazurkiewicz, Josh Adams, Yuliana Bedolla Guzmán, Russell W Bradley, Catherine A Carter, Kenneth Convery, Andrew J Dennhardt, Nick D Holmes, Jim A Howard, Michael E Johns, Annie Little, Stacey D Ostermann-Kelm, Michael W Parker, David Pereksta, Dan Robinette, Marc D Romano, T Scott Sillett, and Sarah J Converse
 
 ##### Please contact the first author for questions about the code or data: Amelia DuVall (ajduvall@uw.edu)
 ##### Secondary contact: Sarah Converse (sconver@usgs.gov)
