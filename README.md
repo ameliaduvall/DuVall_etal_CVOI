@@ -40,11 +40,20 @@ R version 4.4.1 (2024-06-14)
 Platform: aarch64-apple-darwin20  
 Running under: macOS 15.6.1  
 
-(here, list all required packages and the version you used, see examples) 
-
-here_1.0.1
-
-dplyr_1.0.5
+      Package Version
+      cowplot   1.2.0
+        dplyr   1.1.4
+      ggplot2   4.0.0
+      ggrepel   0.9.6
+     ggstance   0.3.7
+         here   1.0.1
+      janitor   2.2.0
+      jcolors   0.0.5
+ RColorBrewer   1.1-3
+       readxl   1.4.3
+       scales   1.4.0
+    tidyverse   2.0.0
+      viridis   0.6.5
 
 ### Details of Article 
 
