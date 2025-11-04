@@ -1,4 +1,4 @@
-"","Hypothesis","Name","CVOI_mean","CVOI_lci","CVOI_uci","Red_mean","Red_lci","Red_uci","Rel_A","Rel_B","Rel_both","Rel_both_lci","Rel_both_uci","Mag","Mag_lci","Mag_uci","Num_experts"
+"","Hypothesis","Name","CVOI_mean","CVOI_lci","CVOI_uci","Red_mean","Red_lci","Red_uci","Rel_a_mean","Rel_b_mean","Rel_both_mean","Rel_both_lci","Rel_both_uci","Mag_mean","Mag_lci","Mag_uci","Num_experts"
 "1",1,"Overflights",3.08333333333333,0,9,3,1.35,4,0.666666666666667,1.75,1.75,0,3,1.16666666666667,0,3,8
 "2",2,"Recreation",7.25,0,18,3,2,4,2.16666666666667,2.66666666666667,6.41666666666667,1.65,12.15,1.16666666666667,0,2.45,11
 "3",3,"Fishery Equipment",0.916666666666667,0,4,0.666666666666667,0.1,1,0.25,0.25,0.25,0,1,0.916666666666667,0,4,3

@@ -60,4 +60,5 @@ DuVall AJ, Mazurkiewicz DM, Adams J, Bedolla Guzman Y, Bradley RW, Carter CA, Co
 
 ### How to Use this Repository 
 
-- Load expert elicitation data by running [load_round_2.R](./scripts/01_format_data/load_round_2.R) in the [01_format_data](./scripts/01_format_data) subfolder in the [scripts](./scripts) folder.
+- Compile expert elicitation data by running [load_round_2.R](./scripts/01_format_data/load_round_2.R) in the [01_format_data](./scripts/01_format_data) subfolder in the [scripts](./scripts) folder. Compiled scores have also been saved in the [results](./results) folder as [results/round_2_all_results.RDS](./results/results/round_2_all_results.RDS).
+

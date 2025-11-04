@@ -4,13 +4,6 @@
 library(here)
 library(tidyverse)
 library(janitor)
-library(ggplot2)
-library(ggrepel)
-library(ggstance)
-library(scales)
-library(cowplot)
-library(viridis)
-library(RColorBrewer)
 
 ## create round 2 df 
 source(here("scripts", "01_format_data","load_round_2.R"))
@@ -20,11 +13,13 @@ source(here("scripts", "01_format_data","load_round_2.R"))
 # Ashy Storm-Petrel (ASSP) ------------------------------------
 assp <- full_df %>% 
   filter(species == "ASSP") %>%
+  ## if rel_a is 0, make mag and rel_b a 0
   mutate(rel_b = ifelse(rel_a ==0, 0, rel_b),
          mag = ifelse(rel_a ==0, 0, mag))%>%
   arrange(hypothesis) %>%
   mutate(rel_both = ((rel_a*rel_b)-0/(4-0)),
          cvoi = (mag*rel_both),
+         ## if experts scored a 0 for rel_a, they did not score for red
          red = ifelse((rel_a == 0 & rel_b == 0 & mag == 0), NA, red)) %>%
   select(expert, category, hypothesis, code, name, species, rel_a, rel_b, rel_both, mag, red, cvoi, conf)
 # saveRDS(assp, here("results", "assp_raw_scores.rds"))
@@ -88,12 +83,12 @@ assp_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                               Red_mean = as.numeric(assp_r2_means$red),
                               Red_lci = red_lci,
                               Red_uci = red_uci,
-                              Rel_A = as.numeric(assp_r2_means$rel_a),
-                              Rel_B = as.numeric(assp_r2_means$rel_b),
-                              Rel_both = as.numeric(assp_r2_means$rel_both),
+                              Rel_a_mean = as.numeric(assp_r2_means$rel_a),
+                              Rel_b_mean = as.numeric(assp_r2_means$rel_b),
+                              Rel_both_mean = as.numeric(assp_r2_means$rel_both),
                               Rel_both_lci = rel_both_lci,
                               Rel_both_uci = rel_both_uci, 
-                              Mag = as.numeric(assp_r2_means$mag),
+                              Mag_mean = as.numeric(assp_r2_means$mag),
                               Mag_lci = mag_lci, 
                               Mag_uci = mag_uci,
                               Num_experts = n_ex_rel$n_ex)
@@ -171,12 +166,12 @@ brpe_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                            Red_mean = as.numeric(brpe_r2_means$red),
                            Red_lci = red_lci,
                            Red_uci = red_uci,
-                           Rel_A = as.numeric(brpe_r2_means$rel_a),
-                           Rel_B = as.numeric(brpe_r2_means$rel_b),
-                           Rel_both = as.numeric(brpe_r2_means$rel_both),
+                           Rel_a_mean = as.numeric(brpe_r2_means$rel_a),
+                           Rel_b_mean = as.numeric(brpe_r2_means$rel_b),
+                           Rel_both_mean = as.numeric(brpe_r2_means$rel_both),
                            Rel_both_lci = rel_both_lci,
                            Rel_both_uci = rel_both_uci, 
-                           Mag = as.numeric(brpe_r2_means$mag),
+                           Mag_mean = as.numeric(brpe_r2_means$mag),
                            Mag_lci = mag_lci, 
                            Mag_uci = mag_uci,
                            Num_experts = n_ex_rel$n_ex)
@@ -255,12 +250,12 @@ caau_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                            Red_mean = as.numeric(caau_r2_means$red),
                            Red_lci = red_lci,
                            Red_uci = red_uci,
-                           Rel_A = as.numeric(caau_r2_means$rel_a),
-                           Rel_B = as.numeric(caau_r2_means$rel_b),
-                           Rel_both = as.numeric(caau_r2_means$rel_both),
+                           Rel_a_mean = as.numeric(caau_r2_means$rel_a),
+                           Rel_b_mean = as.numeric(caau_r2_means$rel_b),
+                           Rel_both_mean = as.numeric(caau_r2_means$rel_both),
                            Rel_both_lci = rel_both_lci,
                            Rel_both_uci = rel_both_uci, 
-                           Mag = as.numeric(caau_r2_means$mag),
+                           Mag_mean = as.numeric(caau_r2_means$mag),
                            Mag_lci = mag_lci, 
                            Mag_uci = mag_uci,
                            Num_experts = n_ex_rel$n_ex)
@@ -339,12 +334,12 @@ scmu_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                            Red_mean = as.numeric(scmu_r2_means$red),
                            Red_lci = red_lci,
                            Red_uci = red_uci,
-                           Rel_A = as.numeric(scmu_r2_means$rel_a),
-                           Rel_B = as.numeric(scmu_r2_means$rel_b),
-                           Rel_both = as.numeric(scmu_r2_means$rel_both),
+                           Rel_a_mean = as.numeric(scmu_r2_means$rel_a),
+                           Rel_b_mean = as.numeric(scmu_r2_means$rel_b),
+                           Rel_both_mean = as.numeric(scmu_r2_means$rel_both),
                            Rel_both_lci = rel_both_lci,
                            Rel_both_uci = rel_both_uci, 
-                           Mag = as.numeric(scmu_r2_means$mag),
+                           Mag_mean = as.numeric(scmu_r2_means$mag),
                            Mag_lci = mag_lci, 
                            Mag_uci = mag_uci,
                            Num_experts = n_ex_rel$n_ex)
@@ -423,12 +418,12 @@ snpl_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                            Red_mean = as.numeric(snpl_r2_means$red),
                            Red_lci = red_lci,
                            Red_uci = red_uci,
-                           Rel_A = as.numeric(snpl_r2_means$rel_a),
-                           Rel_B = as.numeric(snpl_r2_means$rel_b),
-                           Rel_both = as.numeric(snpl_r2_means$rel_both),
+                           Rel_a_mean = as.numeric(snpl_r2_means$rel_a),
+                           Rel_b_mean = as.numeric(snpl_r2_means$rel_b),
+                           Rel_both_mean = as.numeric(snpl_r2_means$rel_both),
                            Rel_both_lci = rel_both_lci,
                            Rel_both_uci = rel_both_uci, 
-                           Mag = as.numeric(snpl_r2_means$mag),
+                           Mag_mean = as.numeric(snpl_r2_means$mag),
                            Mag_lci = mag_lci, 
                            Mag_uci = mag_uci,
                            Num_experts = n_ex_rel$n_ex)
@@ -507,12 +502,12 @@ wegu_summary <- data.frame(Hypothesis = unique(n_ex_rel$hypothesis),
                            Red_mean = as.numeric(wegu_r2_means$red),
                            Red_lci = red_lci,
                            Red_uci = red_uci,
-                           Rel_A = as.numeric(wegu_r2_means$rel_a),
-                           Rel_B = as.numeric(wegu_r2_means$rel_b),
-                           Rel_both = as.numeric(wegu_r2_means$rel_both),
+                           Rel_a_mean = as.numeric(wegu_r2_means$rel_a),
+                           Rel_b_mean = as.numeric(wegu_r2_means$rel_b),
+                           Rel_both_mean = as.numeric(wegu_r2_means$rel_both),
                            Rel_both_lci = rel_both_lci,
                            Rel_both_uci = rel_both_uci, 
-                           Mag = as.numeric(wegu_r2_means$mag),
+                           Mag_mean = as.numeric(wegu_r2_means$mag),
                            Mag_lci = mag_lci, 
                            Mag_uci = mag_uci,
                            Num_experts = n_ex_rel$n_ex)

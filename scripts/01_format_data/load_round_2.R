@@ -8,11 +8,11 @@ library(janitor)
 
 ## load responses
 file.list <- list.files(path = here("data", "scores"), pattern = '*.xlsx')
-rel_a <- lapply(here("data", "scores", file.list), read_excel, sheet = 1)
-rel_b <- lapply(here("data", "scores", file.list), read_excel, sheet = 2)
-mag <- lapply(here("data","scores", file.list), read_excel, sheet = 3)
-red <- lapply(here("data", "scores", file.list), read_excel, sheet = 4)
-conf <- lapply(here("data", "scores", file.list), read_excel, sheet = 5)
+rel_a <- lapply(here("data", "scores", file.list), read_excel, sheet = 1, na = c("NA"))
+rel_b <- lapply(here("data", "scores", file.list), read_excel, sheet = 2, na = c("NA"))
+mag <- lapply(here("data","scores", file.list), read_excel, sheet = 3, na = c("NA"))
+red <- lapply(here("data", "scores", file.list), read_excel, sheet = 4, na = c("NA"))
+conf <- lapply(here("data", "scores", file.list), read_excel, sheet = 5, na = c("NA"))
 
 ## load hypothesis names
 names <- read_excel(here("data", "hypothesis_names.xlsx")) %>%
@@ -30,7 +30,7 @@ for (i in 1:length(rel_a)) {
            hypothesis = rep(1:28, each = 6),
            species = rep(c("assp", "brpe", "scmu", "snpl", "wegu", "caau"), 28),
            expert = paste0("ex", i, sep = ""),
-           score = as.numeric(score, na.rm = TRUE)) %>%
+           score = as.numeric(score)) %>%
     dplyr::select(expert, var, hypothesis, species, score)
   
   rel_a_df <- rbind(rel_a_df, df)
@@ -49,7 +49,7 @@ for (i in 1:length(rel_b)) {
            hypothesis = rep(1:28, each = 6),
            species = rep(c("assp", "brpe", "scmu", "snpl", "wegu", "caau"), 28),
            expert = paste0("ex", i, sep = ""),
-           score = as.numeric(score, na.rm = TRUE)) %>%
+           score = as.numeric(score)) %>%
     dplyr::select(expert, var, hypothesis, species, score)
   
   rel_b_df <- rbind(rel_b_df, df)
@@ -68,7 +68,7 @@ for (i in 1:length(mag)) {
            hypothesis = rep(1:28, each = 6),
            species = rep(c("assp", "brpe", "scmu", "snpl", "wegu", "caau"), 28),
            expert = paste0("ex", i, sep = ""),
-           score = as.numeric(score, na.rm = TRUE)) %>%
+           score = as.numeric(score)) %>%
     dplyr::select(expert, var, hypothesis, species, score)
   
   mag_df <- rbind(mag_df, df)
@@ -87,7 +87,7 @@ for (i in 1:length(red)) {
            hypothesis = rep(1:28, each = 6),
            species = rep(c("assp", "brpe", "scmu", "snpl", "wegu", "caau"), 28),
            expert = paste0("ex", i, sep = ""),
-           score = as.numeric(score, na.rm = TRUE)) %>%
+           score = as.numeric(score)) %>%
     dplyr::select(expert, var, hypothesis, species, score)
   
   red_df <- rbind(red_df, df)
@@ -106,7 +106,7 @@ for (i in 1:length(conf)) {
            hypothesis = rep(1:28, each = 6),
            species = rep(c("assp", "brpe", "scmu", "snpl", "wegu", "caau"), 28),
            expert = paste0("ex", i, sep = ""),
-           score = as.numeric(score, na.rm = TRUE)) %>%
+           score = as.numeric(score)) %>%
     dplyr::select(expert, var, hypothesis, species, score)
   
   conf_df <- rbind(conf_df, df)
