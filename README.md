@@ -56,9 +56,12 @@ viridis_0.6.5
 
 ### Details of Article 
 
-DuVall AJ, Mazurkiewicz DM, Adams J, Bedolla Guzman Y, Bradley RW, Carter CA, Convery K, Dennhardt AJ, Holmes ND, Howard JA, Johns ME, Little A, Ostermann-Kelm SD, Parker MW, Pereksta D, Robinette D, Romano MD, Sillett TS & Converse SJ. In prep. Use of constructed value of information to identify critical uncertainties in marine bird conservation. 
+DuVall AJ, Mazurkiewicz DM, Adams J, Bedolla Guzman Y, Bradley RW, Carter CA, Convery K, Dennhardt AJ, Holmes ND, Howard JA, Johns ME, Little A, Ostermann-Kelm SD, Parker MW, Pereksta D, Robinette D, Romano MD, Sillett TS & Converse SJ. In prep. Use of constructed value of information to identify critical uncertainties in marine bird conservation. XXXXXXXX.  
 
 ### How to Use this Repository 
 
 - Compile expert elicitation data by running [load_round_2.R](./scripts/01_format_data/load_round_2.R) in the [01_format_data](./scripts/01_format_data) subfolder in the [scripts](./scripts) folder. Compiled scores have also been saved in the [results](./results) folder as [results/round_2_all_results.RDS](./results/results/round_2_all_results.RDS).
+- To calculate CVOI as well as mean scores across components for each species, run [calculate_cvoi.R](./scripts/02_run_analyses/calculate_cvoi.R) in the [02_run_analyses](./scripts/02_run_analyses) subfolder in the [scripts](./scripts) folder.
+- To bootstrap results by species, run [bootstrap_by_spp.R](./scripts/02_run_analyses/bootstrap_by_spp.R) in the [02_run_analyses](./scripts/02_run_analyses) subfolder in the [scripts](./scripts) folder.
+- To bootstrap result across species, run [bootstrap_across_spp.R](./scripts/02_run_analyses/bootstrap_across_spp.R) in the [02_run_analyses](./scripts/02_run_analyses) subfolder in the [scripts](./scripts) folder.
 
