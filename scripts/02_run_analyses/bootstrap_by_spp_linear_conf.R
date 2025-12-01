@@ -62,7 +62,8 @@ for (b in 1:nbirds) {
       
       for (t in 1:dim(temp_cvoi)[2]) {
         # store sampled experts
-        temp_cvoi[s,,h] <- paste(h,expert_cvoi[s,,h], sep = "-")
+        #temp_cvoi[s,,h] <- paste(h,expert_cvoi[s,,h], sep = "-")
+        temp_cvoi[s,,h] <- paste(hypos[h], expert_cvoi[s,,h], sep = "-")
         # extract cvoi scores for sampled experts
         X_cvoi[s,t,h] <- birds[[b]]$cvoi[which(birds[[b]]$sample_code == temp_cvoi[s,t,h])]
         # extract conf scores for sampled experts
@@ -96,7 +97,8 @@ for (b in 1:nbirds) {
       for (t in 1:dim(temp_red)[2]) {
         #for (t in 1:n_ex[h]) {
         # store sampled experts
-        temp_red[s,1:n_ex[h],h] <- paste(h,expert_red[s,1:n_ex[h],h], sep = "-")
+        #temp_red[s,1:n_ex[h],h] <- paste(h,expert_red[s,1:n_ex[h],h], sep = "-")
+        temp_red[s,1:n_ex[h],h] <- paste(hypos[h], expert_red[s,1:n_ex[h],h], sep = "-")
         # extract reducibility scores for sampled experts
         if (is.na(temp_red[s,t,h])) next
         X_red[s,t,h] <- red_df$red[which(red_df$sample_code == temp_red[s,t,h])]

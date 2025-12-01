@@ -4,13 +4,13 @@
 ## load libraries
 library(here);library(ggplot2);library(ggrepel);library(ggstance);
 library(scales); library(cowplot); library(viridis); library(RColorBrewer);
-library(janitor); library(tidyverse); library(jcolors); library(RColorBrewer)
+library(janitor); library(tidyverse); library(jcolors)
 
 cols <- c('mardi_gras', 'blue_yonder', 'deep_taupe', 'darkgrey', 'tiffany_blue', 
           'orioles_orange', 'vivid_yellow', 'moderate_red')
 
 ## load categories
-full_df <- readRDS(here("data", "full_df.rds")) %>%
+full_df <- readRDS(here("results", "round_2_all_results.RDS")) %>%
   dplyr::select(category, hypothesis, code, name) %>%
   distinct()
 
@@ -59,7 +59,7 @@ ggplot(assp_df, aes(x = mean_cvoi, y = mean_red)) +
   theme(text = element_text(size = 20),
         plot.title = element_text(hjust = 0.5, face = "bold"))
 
-#ggsave(here("figures", "final", "assp_all.png"), width = 12, height = 8)
+#ggsave(here("figures", "assp_cvoi.png"), width = 12, height = 8)
 
 ## try with code
 ggplot(assp_df, aes(x = mean_cvoi, y = mean_red)) + 
@@ -100,7 +100,7 @@ ggplot(assp_df, aes(x = mean_cvoi, y = mean_red)) +
   theme(text = element_text(size = 20),
         plot.title = element_text(hjust = 0.5, face = "bold"))
 
-#ggsave(here("figures", "final", "assp_cvoi_hCode.png"), width = 12, height = 8)
+#ggsave(here("figures", "assp_cvoi_hCode.png"), width = 12, height = 8)
 
 ## look at priority rankings
 median_cvoi <- median(assp_df$mean_cvoi)
