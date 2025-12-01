@@ -3,18 +3,18 @@
 
 ## load libraries
 library(here);library(ggplot2);library(ggrepel);library(ggstance);
-library(scales); library(cowplot); library(viridis); library(RColorBrewer);
-library(janitor); library(tidyverse); library(jcolors); library(RColorBrewer)
+library(scales); library(cowplot); library(RColorBrewer);
+library(janitor); library(tidyverse); library(jcolors)
 
 cols <- c('mardi_gras', 'blue_yonder', 'deep_taupe', 'darkgrey', 'tiffany_blue', 
           'orioles_orange', 'vivid_yellow', 'moderate_red')
 
 ## load categories
-full_df <- readRDS(here("data", "full_df.rds")) %>%
+full_df <- readRDS(here("results", "round_2_all_results.rds")) %>%
   dplyr::select(category, hypothesis, code, name) %>%
   distinct()
 
-## snpl ####
+## load data ####
 assp_boot <- readRDS(here("results", "assp_bootstrapped.RDS"))
 brpe_boot <- readRDS(here("results", "brpe_bootstrapped.RDS"))
 caau_boot <- readRDS(here("results", "caau_bootstrapped.RDS"))
