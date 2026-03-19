@@ -82,7 +82,6 @@ for (h in 1:length(hypos)) {
       }
     } # close spp loop
     
-    
     # mean across spp
     mu_cvoi_global[s, h] <- mean(species_means_cvoi, na.rm = TRUE)
     mu_red_global[s, h]  <- mean(species_means_red, na.rm = TRUE)

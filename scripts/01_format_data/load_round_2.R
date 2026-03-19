@@ -1,4 +1,4 @@
-## Load round 2 responses
+## Load round 2 (final) responses
 
 ## load libraries
 library(here)
@@ -119,7 +119,7 @@ full_df <- bind_rows(rel_a_df, rel_b_df, mag_df, red_df, conf_df) %>%
   left_join(names, by = "hypothesis") %>%
   mutate(species = toupper(species)) %>%
   clean_names() %>%
-  dplyr::select(expert, category, hypothesis, code, name, species, rel_a, rel_b, mag, red, conf)
+  dplyr::select(expert, category, hypothesis, code, name, iucn_name, species, rel_a, rel_b, mag, red, conf)
 
 # write.csv(full_df, here("results", "round_2_all_results.csv"))
 # saveRDS(full_df, here("results", "round_2_all_results.RDS"))
