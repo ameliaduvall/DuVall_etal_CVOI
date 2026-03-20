@@ -15,12 +15,12 @@ all_species_summary <- full_df %>%
   mutate(
     # if rel A is 0, subsequent components are 0 (rel B, mag) or NA (red)
     rel_b = ifelse(rel_a == 0, 0, rel_b),
-    mag   = ifelse(rel_a == 0, 0, mag),
-    red   = ifelse(rel_a == 0, NA, red),
+    mag = ifelse(rel_a == 0, 0, mag),
+    red = ifelse(rel_a == 0, NA, red),
     # rescale rel both
     rel_both = (rel_a * rel_b) / 4,
     # calculate CVOI
-    cvoi     = mag * rel_both
+    cvoi = mag * rel_both
   ) %>%
   # group by metadata
   group_by(species, category, hypothesis, code, name, iucn_name) %>% 
